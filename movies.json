@@ -95,4 +95,11 @@
         "rating": 8.2,
         "releaseYear": 2010,
         "genre": ["Animation", "Adventure", "Family"]
+    },
+    {
+        "title": "How to Train Your hahaha",
+        "image": "http://api.androidhive.info/json/movies/15.jpg",
+        "rating": 8.5,
+        "releaseYear": 2012,
+        "genre": ["Animation", "Adventure", "Families also"]
     }]
