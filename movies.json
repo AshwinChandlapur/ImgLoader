@@ -13,6 +13,13 @@
         "genre": ["Action", "Adventure", "Sci-Fi"]
     },
     {
+        "title": "Transformers Extinction already over",
+        "image": "http://api.androidhive.info/json/movies/3.jpg",
+        "rating": 6.5,
+        "releaseYear": 2014,
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
         "title": "X-Men: Days of Future Past, Ashwin",
         "image": "http://api.androidhive.info/json/movies/4.jpg",
         "rating": 8.4,
