@@ -3,9 +3,9 @@
 
 	{
 			"image":[
-				"http://nammakarnataka.net23.net/other/cubbon0.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon1.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon2.jpg"
+				"http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg",
+				"http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg",
+				"http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
 		  	],
 		  	"id":1,
 		  	"name":"Panner Selvam",
@@ -16,25 +16,25 @@
 		},
 		{
 			"image":[
-				"http://nammakarnataka.net23.net/other/cubbon0.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon1.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon2.jpg"
+				"https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg"
 		  	],
 		  	"id":2,
 		  	"name":"Bisibelbath",
-		  	"time":"3",
+		  	"time":"2.3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
 		  	"category":"breakfast"
 		},
 		{
 			"image":[
-				"http://nammakarnataka.net23.net/other/cubbon0.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon1.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon2.jpg"
+				"https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg",
+				"https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg",
+				"https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
 		  	],
 		  	"id":3,
-		  	"name":"Upma",
+		  	"name":"Puliyogare",
 		  	"time":"3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
@@ -42,7 +42,7 @@
 		},
 		{
 			"image":[
-				"http://nammakarnataka.net23.net/other/cubbon0.jpg",
+				"https://cookingitupwithanu.files.wordpress.com/2014/01/421cf-achaaridalroti6.jpg",
 				"http://nammakarnataka.net23.net/other/cubbon1.jpg",
 				"http://nammakarnataka.net23.net/other/cubbon2.jpg"
 		  	],
@@ -55,9 +55,9 @@
 		},
 		{
 			"image":[
-				"http://nammakarnataka.net23.net/other/cubbon0.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon1.jpg",
-				"http://nammakarnataka.net23.net/other/cubbon2.jpg"
+				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg",
+				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg",
+				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg"
 		  	],
 		  	"id":5,
 		  	"name":"Gobi Manchuri",
