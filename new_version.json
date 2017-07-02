@@ -55,16 +55,32 @@
 		},
 		{
 			"image":[
-				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg",
-				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg",
-				"http://cdn1.foodviva.com/static-content/food-images/chinese-recipes/gobi-manchurian-recipe/gobi-manchurian-recipe.jpg"
+				"http://www.manjulaskitchen.com/blog/wp-content/uploads/chana_chaat-300x169.jpg"
 		  	],
 		  	"id":5,
-		  	"name":"Gobi Manchuri",
-		  	"time":"3",
-		  	"ingredients":"1 lota Panner  2 lota Selvam", 
-    	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"breakfast"
+		  	"name":"Chana Chaat",
+		  	"time":"30 minutes",
+		  	"ingredients":"1 cup kala chana
+2 Tbsp oil (Canola, or vegetable oil)
+1 Tbsp ginger (finely shredded)
+1 Tbsp green chili (finely chopped)
+1 Tbsp coriander powder (dhania)
+1/4 cup tamarind pulp (this is available in India grocery store or you can make it at home soaking the tamarind and squeeze the pulp. But not the concentrated tamarind)
+1 tsp red chili powder
+1 tsp salt
+1 tsp black salt
+1 Tbsp sugar
+2 tsp roasted cumin seed powder (bhuna jeera)
+1 cup potato (boiled peeled and cut in small pieces)
+1/2 cup cucumber (chopped in small pieces)
+1/2 cup tomatoes (chopped in small pieces)", 
+    	    "directions": "Wash and soak kala chana in approx. 4 cups of water, for at least 4 hours. The kala chana will double in volume after soaking.
+In pressure cooker cook kala chana with 2 cups of water over medium high heat. As pressure cooker starts steaming turn the heat down to low medium and cook for about 15 minutes. Close the heat and wait until steam has stopped before opening the pressure cooker. Chana should be soft and tender.
+Drain the water and save it for later use, this water is high in protein and can be used for making the soup or dals.
+Heat the oil in a sauce pan over medium high heat. Add the chana, stir for few seconds. Add ginger and green chili, coriander powder, sauté for about 1 minutes.
+Add salt, black salt, red chili powder, and sugar, add tamarind pulp. Cook for 3-4 minutes over low heat. If needed use few spoons of water, Chana mix should be moist. Turn off the heat.
+Assemble the Kala Chana Chaat, add chopped potatoes, tomatoes, and cucumber, drizzle the roasted cumin seeds powder and mix it well. If desired garnish with sliced ginger, green chilies and drizzle the lemon juice.",
+		  	"category":"appetizers"
 		}
 	
 	]
