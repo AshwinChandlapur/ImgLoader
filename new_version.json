@@ -10,7 +10,7 @@
 		  	"time":"1",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"maincourse"
+		  	"category":"breakfast"
 		},
 		{
 			"image":[
@@ -44,7 +44,7 @@
     	\n•The pan should be really hot while adding the chappathi. Then after flipping it reduce heat to medium and after last flip increase heat to high for chapati to put up well. There are two flips in total. Check the directions.
     	\n•After cooking the chapathis, it is best to eat them right away, or else just keep them closed in a thermal container.\n"
 		,
-		  	"category":"breakfast"
+		  	"category":"appetizers"
 		},
 		{
 			"image":[
@@ -54,7 +54,7 @@
 		  	"time":"3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"breakfast"
+		  	"category":"maincourse"
 		},
 		{
 			"image":[
@@ -65,7 +65,7 @@
 		  	"time":"3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"breakfast"
+		  	"category":"dessert"
 		},
 		{
 			"image":[
@@ -76,7 +76,7 @@
 		  	"time":"3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"breakfast"
+		  	"category":"snacks"
 		},
 		{
 			"image":[
@@ -87,7 +87,7 @@
 		  	"time":"3",
 		  	"ingredients":"1 lota Panner  2 lota Selvam", 
     	    "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-		  	"category":"appetizers"
+		  	"category":"festive"
 		}
 		]
 }
