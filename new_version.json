@@ -14,19 +14,18 @@
         },
         {
             "image":[
-               "http://3.bp.blogspot.com/-qMc_SCwWmsU/UOVrefDf4WI/AAAAAAAAGjA/jPgp_Ed4rQM/s1600/onion-uthappam.jpg"            ],
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg" 
+            ],
             "id":2,
-            "name":"Panner Selvam Amma Taayi",
+            "name":"Onion Uthappam",
             "time":"10minutes",
             "ingredients":"Onion - 1/2 cup finely chopped
    \n• Idli batter - 1/2 cup and a little more
-  \n•  Green chilli - 1-2 minced
+   \n•  Green chilli - 1-2 minced
    \n• Ginger - 1 inch piece minced
    \n• Oil for making uttappams (sesame seed oil preferable)
 ", 
             "directions": "In a bowl combine onion, green chilli and ginger. Sprinkle a little salt and mix it. Remember the dosa batter has salt in it already. Keep this ready before heating the dosa tawa.
-
-
 \n• Heat a tawa, add a drop of oil and rub it with half an onion. This will help you to take the dosa from the tawa easily.
 \n• Once the tawa is heated well, reduce the heat to medium, pour a ladle of batter and spread it in a circular motion to form a thick dosa as shown in the picture. Do not spread it thin. Uthappams should be thick.
 \n• After a minute, sprinkle the onion mixture all over the dosa. Be generous in adding onions for the uthappam to taste great. Gently press it with the dosa ladle or spatula.
@@ -38,27 +37,28 @@
         },
          {
             "image":[
-                "http://3.bp.blogspot.com/_nP_gc23FJIk/Ss2Ky8FARTI/AAAAAAAAAqw/u2HfPlLegL4/s400/moongdal_dosa.jpg"
+                 "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
             ],
             "id":3,
             "name":"Moong dal dosa",
             "time":"10minutes,
             "ingredients":" Split Moong dal/pasi paruppu -1 cup
-   \n• Ginger -1/2 inch piece
-   \n• Green chillies -2
-   \n• Jeera- cumin seeds - 1 tsp
-   \n• Asafoetida - a pinch
-   \n• Asafoetida - a pinch
-  \n•  Coriander leaves - 1 tbsp finely chopped
-   \n• Onion -1 finely chopped (optional)
-   \n• Salt to taste
-   \n• Oil for making dosa", 
+   \n•Ginger -1/2 inch piece
+   \n•Green chillies -2
+   \n•Jeera/cumin seeds - 1 tsp
+   \n•Asafoetida/hing - a pinch
+   \n•Asafoetida/hing - a pinch
+   \n•Coriander leaves - 1 tbsp finely chopped
+   \n•Onion -1 finely chopped (optional)
+   \n•Salt to taste
+   \n•Oil for making dosa", 
             "directions": "Clean and soak moong dal for 3 - 4 hours.
-\n• Grind it to a smooth paste with ginger, green chillies and salt. The consistency of the batter should neither be thick nor thin.
+
+\n•Grind it to a smooth paste with ginger, green chillies and salt. The consistency of the batter should neither be thick nor thin.
 Add cumin seeds, asafoetida and finely chopped coriander leaves. You can add onions if needed.
-\n• Heat a nonstick tawa or cast-iron tawa, pour a ladle of the batter in the center of the tawa and spread it in a circular motion from the center to the outer corners of the tawa.
+\n•Heat a nonstick tawa/cast-iron tawa, pour a ladle of the batter in the center of the tawa and spread it in a circular motion from the center to the outer corners of the tawa.
 Drizzle a tsp of oil around the dosa.
-\n• After it is cooked, flip it over to the other side and drizzle another 1/2 tsp of oil around the dosa. When the other side is cooked, remove the dosa from tawa and serve hot.
+\n•After it is cooked, flip it over to the other side and drizzle another 1/2 tsp of oil around the dosa. When the other side is cooked, remove the dosa from tawa and serve hot.
 Serve with any chutney or sambar of your choice.",
             "category":"breakfast"
         },
@@ -68,7 +68,7 @@ Serve with any chutney or sambar of your choice.",
             "image":[
                 "https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg"
             ],
-            "id":4,
+            "id":3,
             "name":"Bisibelebath",
             "time":"30 Minutes",
             "ingredients":"  \n•  ¾ Cup Toor Dal
@@ -102,7 +102,7 @@ Serve with any chutney or sambar of your choice.",
         {
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"         ],
-            "id":5,
+            "id":3,
             "name":"PuliyogareREI",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
@@ -114,7 +114,7 @@ Serve with any chutney or sambar of your choice.",
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":6,
+            "id":4,
             "name":"Channa Oota",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
@@ -126,7 +126,7 @@ Serve with any chutney or sambar of your choice.",
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":7,
+            "id":5,
             "name":"Discussion Heat",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
@@ -138,7 +138,7 @@ Serve with any chutney or sambar of your choice.",
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":8,
+            "id":6,
             "name":"Shawn V/s AnujJJ",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
