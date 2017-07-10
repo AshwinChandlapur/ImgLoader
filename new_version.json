@@ -14,6 +14,85 @@
         },
         {
             "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"Vermicelli Upma",
+            "time":"1",
+            "ingredients":"1-1/2 cup vermicelli roasted, available in Indian grocery stores
+\n• 1/2 cup carrots cut into small pieces
+\n• 1/2 cup green beans cut into small pieces
+\n• 1/2 cup corn kernels I am using frozen corn
+\n• 3 tablespoons oil
+\n• 1 teaspoon mustard seeds/rai
+\n• 8-10 curry leaves
+\n• 1/4 teaspoon turmeric/haldi
+\n• 1 green chili finely chopped
+\n• 1-1/4 teaspoons of salt, adjust to taste
+\n• 2 teaspoons lemon juice
+\n• 3 cups water
+\n• 1/4 cup cashews broken fro garnishing", 
+            "directions": "Heat 1 tablespoon of oil in a saucepan over low- medium heat, roast the cashews stirring continuously until they are light golden brown. It will take about 2 minutes.
+\n• Turn off the heat and take out the cashews over paper towel.
+\n• Use the same saucepan and add the remaining oil, heat the oil over medium heat until it is moderately hot. Add the mustard seeds as seeds crack add curry leaves and green chili, stir-fry for few seconds. Be careful curry leaves splatter.
+\n• Add carrots, green beans, corn, turmeric, and salt stir-fry for 3 minutes over medium heat. Add vermicelli and gently mix them with vegetables, add water. Bring it to boil over high-medium heat.
+\n• As vegetables come to boil reduce the heat to low and cover the pan. Let it cook till all the water has evaporated. Stir in between once, it will take about 10 minutes. Vermicelli should be moist.
+\n• Gently stir in the lemon juice, garnish with roasted cashews.
+\n• Serve hot.",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://www.manjulaskitchen.com/blog/wp-content/uploads/aloo_puri-300x168.jpg"
+            ],
+            "id":1,
+            "name":"Aloo Puri",
+            "time":"15 minutes",
+            "ingredients":"3 medium size potatoes peeled and cubed in bite size, about 2 cups of cubed potato
+\n• 1-1/2 tablespoons oil
+\n• 1 teaspoon cumin seeds (jeera)
+\n• 1/8 teaspoon asafetida (hing)
+\n• 1/4 teaspoon turmeric (haldi)
+\n• 1 teaspoon ginger chopped
+\n• 1 green chili chopped
+\n• 2 teaspoon coriander powder (dhania)
+\n• 1 teaspoon fennel seed crushed
+\n• 1/4 teaspoon red chili powder
+\n• 1 teaspoon salt
+\n• 1/2 teaspoon mango powder (amchoor)
+\n• 1/4 teaspoon garam masala
+About 2 tablespoon cilantro (hara dhania) finely chopped
+for Puri
+
+\n• 1 cup whole wheat flour
+\n• 1 tablespoon soji / semolina
+\n• 1/8 teaspoon carom seeds (ajwain)
+\n• 1/2 teaspoon salt
+\n• Approx. ½ cup water", 
+            "directions": "For Aloo: In a small bowl, mix the coriander, fennel, turmeric, chili powder, salt, ginger, and green chili with about 2 tablespoons of water. Set aside.
+\n•Heat the oil in a saucepan over medium high heat. Test the heat by adding one cumin seed to the oil. If the cumin seed cracks right away, the oil is ready. Add cumin seeds, and asafetida, as cumin seeds crack add spice mix and stir fry for about 15 seconds
+\n•Add potatoes mix with spices, lower the heat to low medium, cover the pan and let it cook for about three to four minutes stirring once in between.
+\n•Add about 1-1/2 cups of water and change the heat to medium high heat. As potatoes come to boil cover the pan and lower the heat to medium and let it cook for about eight minutes.
+\n•Mix the potatoes and mash some potatoes as mixing the potatoes, this will thickness to gravy. Adjust the water in gravy to your liking; gravy will thicken as it will cool.
+\n•Add mango powder, garam masala and cilantro. Mix it well turn off the heat and cover the pan.
+\n•Aloo is ready to serve hot with Puries.
+
+\n•For Puri: 
+        \n•In a bowl mix whole-wheat flour, soji, carom seeds, and salt. Add water as needed to make firm dough.
+\n• Oil your palm and knead the dough until it is pliable. Dough for puri should be firm but smooth.
+\n• Set the dough aside and cover with a damp cloth. Let the dough rest for 15 minutes or longer.
+\n• Divide the dough in 10 equal parts.
+\n• Take couple of drops of oil on your palm and roll the dough in balls and press it between your palms.
+\n• Roll the dough into about 5-inch diameter. If the dough is sticking to the rolling pin or rolling surface, put couple of drops of oil on the rolling pin and a couple of drops of oil on the surface.
+\n• You can roll 4 to 5 purees before you start frying, but do not roll all the puries at once or they will begin to dry and not puff.
+\n• Heat about one inch of oil in frying pan on medium high heat. To check if oil is hot enough place a small piece of dough in oil and dough should float to the top right away.
+\n• Place the puri in the frying pan and press it with a skimmer, puri should puff right away.
+\n• Turn puri over. Puri should be light creamy brown from both sides. Take the puri out and place it on paper towels to absorb the excess oil.
+\n• Serve puri with Aloo. You can store the puries in covered container after they cool to room temperature.",
+            "category":"breakfast"
+        },
+        {
+            "image":[
                "http://www.manjulaskitchen.com/blog/wp-content/uploads/paratha_samosa-300x168.jpg"
             ],
             "id":2,
