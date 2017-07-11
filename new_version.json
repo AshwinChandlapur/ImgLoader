@@ -687,15 +687,40 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
         ,
             "category":"appetizers"
         },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":23,
+            "name":"Spicy Corn Chaat",
+            "time":"10 Minutes",
+            "ingredients":"\n• 16 oz frozen corn kernels (about 3-1/2 cups)
+\n• 1 cup green and yellow bell pepper finely chopped (use any bell pepper you have, I decide to use them for color)
+\n• 1/2 cup finely chopped tomato
+\n• 1 tsp ginger juice
+\n• 1 tsp salt
+\n• 1/2 tsp black salt (optional)
+\n• 1 tsp cumin seed powder (roasted)
+\n• 1/4 tsp black pepper
+\n• 1/4 tsp red chili powder
+\n• 1 tsp green chili (finely chopped, adjust to taste)
+\n• 1 Tbsp cilantro (finely chopped)
+\n• 1 Tbsp lemon juice", 
+            "directions": "\n• Mix all the dry ingredients together, salt, black salt, roasted cumin seed powder, black pepper, and chili powder, set aside.\n
+\n• Thaw the frozen corn kernels and lightly squeeze some water out.\n
+\n• Coat the nonstick frying pan with oil and heat over medium high heat, put the corn kernels and stir fry for 4-5 minutes stirring continuously. Some corn will start popping and they start getting some brown spots. Turn off the heat.\n
+\n• After corn comes to room temperature add all the ingredients, bell peppers, tomato, sprinkle the spice mix, ginger juice, cilantro and lemon juice and add the green chili to you taste. Mix them well.",
+            "category":"appetizers"
+        },
 
         {
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"         ],
-            "id":23,
+            "id":24,
             "name":"PuliyogareREI",
             "time":"3",
-            "ingredients":"1 lota Panner  2 lota Selvam", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
+            "ingredients":"", 
+            "directions": "",
             "category":"maincourse"
         },
 
@@ -703,7 +728,7 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":24,
+            "id":25,
             "name":"Channa Oota",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
@@ -715,7 +740,7 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":25,
+            "id":26,
             "name":"Discussion Heat",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
@@ -727,7 +752,7 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
             "image":[
                 "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
             ],
-            "id":26,
+            "id":27,
             "name":"Shawn V/s AnujJJ",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
