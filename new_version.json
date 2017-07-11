@@ -405,7 +405,7 @@ Kosher salt and freshly ground black pepper",
 \n• 3 tablespoons fresh lemon juice
 \n• 3 cups arugula or baby spinach
 \n• 8 ounces thinly sliced prosciutto", 
-            "directions": "\n• Heat a grill pan over medium-high heat or preheat a gas or charcoal grill. 
+            "directions": "\n• Heat a grill pan over medium-high heat or preheat a gas or charcoal grill. \n
 \n•Brush each side of the pita breads with ½ teaspoon olive oil and grill for 2 to 3 minutes on each side, until crisp.\n 
 \n•Remove from the grill and cool slightly.\n 
 \n•In a large skillet, heat 1 tablespoon olive oil over medium-high heat.\n 
@@ -421,13 +421,21 @@ Kosher salt and freshly ground black pepper",
         },
          {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "https://i1.wp.com/spryliving.com/wp-content/uploads/2014/05/breakfast-tacos.jpg?resize=670%2C405"
             ],
-            "id":1,
-            "name":"Panner Selvam Amma Taayi",
-            "time":"1",
-            "ingredients":"1 lota Panner  2 lota Selvam", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
+            "id":16,
+            "name":"Breakfast Tacos",
+            "time":"10 Minutes",
+            "ingredients":\n•"3 eggs, whisked
+\n•Canola or olive oil spray
+\n•1 avocado, sliced
+\n•Few sprigs of cilantro
+\n•Fresh salsa (optional)
+\n•4small corn & whole wheat tortillas", 
+            "directions": "\n•Spray a frying pan with olive oil or canola oil.
+\n•Over medium heat, add the eggs. Sprinkle with pepper, if desired.
+\n•Fold over once when cooked through and then add the eggs to the tortillas.
+\n•Garnish with sliced avocado and chopped cilantro.",
             "category":"breakfast"
         },
          {
