@@ -1254,18 +1254,18 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
             "id":39,
             "name":"Apple coconut Barfi",
             "time":"30 Minutes",
-            "ingredients":"2 tbsp. ghee
-3 oz. vermicelli pasta, broken into 1 pieces
-5 cups whole milk
-1⁄2 cup sugar
-1⁄4 cup pistachios, minced
-3 tbsp. golden raisins
-3 tbsp. sliced almonds
-1⁄2 tsp. ground cardamom", 
-            "directions": "Melt ghee in a 4-qt. saucepan over medium-high.
-            Cook pasta until reddish-brown, 3–4 minutes. Add milk; boil. 
-            Reduce heat to medium; cook, stirring occasionally to prevent scorching, until thickened, 15–17 minutes. 
-            Stir in sugar, pistachios, raisins, almonds, and cardamom; cook 2–3 minutes. Serve warm.",
+            "ingredients":"\n•  2 tbsp. ghee
+\n• 3 oz. vermicelli pasta, broken into 1 pieces
+\n•  5 cups whole milk
+\n•  1⁄2 cup sugar
+\n•  1⁄4 cup pistachios, minced
+\n•  3 tbsp. golden raisins
+\n•  3 tbsp. sliced almonds
+\n•  1⁄2 tsp. ground cardamom", 
+            "directions": "\n•  Melt ghee in a 4-qt. saucepan over medium-high.\n
+            \n•  Cook pasta until reddish-brown, 3–4 minutes. Add milk; boil.\n 
+            \n•  Reduce heat to medium; cook, stirring occasionally to prevent scorching, until thickened, 15–17 minutes.\n
+            \n•  Stir in sugar, pistachios, raisins, almonds, and cardamom; cook 2–3 minutes. Serve warm.",
             "category":"dessert"
         },
         {
@@ -1275,18 +1275,18 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
             "id":40,
             "name":"Sevaya Kheer",
             "time":"20 Minutes",
-            "ingredients":"2 tbsp. ghee
-3 oz. vermicelli pasta, broken into 1 pieces
-5 cups whole milk
-1⁄2 cup sugar
-1⁄4 cup pistachios, minced
-3 tbsp. golden raisins
-3 tbsp. sliced almonds
-1⁄2 tsp. ground cardamom", 
-            "directions": "Melt ghee in a 4-qt. saucepan over medium-high.
-            Cook pasta until reddish-brown, 3–4 minutes. Add milk; boil. 
-            Reduce heat to medium; cook, stirring occasionally to prevent scorching, until thickened, 15–17 minutes. 
-            Stir in sugar, pistachios, raisins, almonds, and cardamom; cook 2–3 minutes. Serve warm.",
+            "ingredients":"\n• 2 tbsp. ghee
+\n• 3 oz. vermicelli pasta, broken into 1 pieces
+\n• 5 cups whole milk
+\n• 1⁄2 cup sugar
+\n• 1⁄4 cup pistachios, minced
+\n• 3 tbsp. golden raisins
+\n• 3 tbsp. sliced almonds
+\n• 1⁄2 tsp. ground cardamom", 
+            "directions": "\n• Melt ghee in a 4-qt. saucepan over medium-high.\n
+            \n•  Cook pasta until reddish-brown, 3–4 minutes. Add milk; boil.\n 
+            \n• Reduce heat to medium; cook, stirring occasionally to prevent scorching, until thickened, 15–17 minutes.\n 
+            \n• Stir in sugar, pistachios, raisins, almonds, and cardamom; cook 2–3 minutes. Serve warm.",
             "category":"dessert"
         },
 
@@ -1297,19 +1297,20 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
             "id":41,
             "name":"Gajar Ka Halwa",
             "time":"45 Minutes",
-            "ingredients":"1⁄2 cup ghee
-4 medium carrots, coarsely grated
-3 cups whole milk
-1 cup sugar
-1⁄4 cup heavy cream
-1 1⁄2 tsp. ground green cardamom
-1⁄2 tsp. rose water
-2 tbsp. golden raisins
-2 tbsp. roughly chopped cashews
-1 tbsp. roughly chopped almonds
-1 tsp. minced pistachios", 
-            "directions": "Melt 1⁄3 cup ghee in a 12 nonstick skillet over medium-high heat; stir in carrots. Add milk; boil. Reduce heat to medium; cook, stirring occasionally, until carrots are very tender and sauce is thickened, 30–35 minutes. Stir in sugar, cream, cardamom, and rose water; cook until sugar is dissolved and halwa is thick, about 25 minutes.
-Melt remaining ghee in an 8 skillet over medium-high heat; cook raisins, cashews, and almonds until raisins are plump and nuts are lightly toasted, 3–4 minutes. Stir mixture into halwa and garnish with pistachios; serve at room temperature.",
+            "ingredients":"\n• 1⁄2 cup ghee
+\n• 4 medium carrots, coarsely grated
+\n•  3 cups whole milk
+\n•  1 cup sugar
+\n• 1⁄4 cup heavy cream
+\n•  1 1⁄2 tsp. ground green cardamom
+\n•  1⁄2 tsp. rose water
+\n•  2 tbsp. golden raisins
+\n•  2 tbsp. roughly chopped cashews
+\n•  1 tbsp. roughly chopped almonds
+\n•  1 tsp. minced pistachios", 
+            "directions": "\n• Melt 1⁄3 cup ghee in a 12 nonstick skillet over medium-high heat; stir in carrots.\n
+\n• Add milk; boil. Reduce heat to medium; cook, stirring occasionally, until carrots are very tender and sauce is thickened, 30–35 minutes. Stir in sugar, cream, cardamom, and rose water; cook until sugar is dissolved and halwa is thick, about 25 minutes.\n
+\n• Melt remaining ghee in an 8 skillet over medium-high heat; cook raisins, cashews, and almonds until raisins are plump and nuts are lightly toasted, 3–4 minutes. Stir mixture into halwa and garnish with pistachios; serve at room temperature.",
             "category":"dessert"
         },
         {
@@ -1318,16 +1319,16 @@ Melt remaining ghee in an 8 skillet over medium-high heat; cook raisins, cashews
             ],
             "id":42,
             "name":"Nariyal Ka Ladoo",
-            "time":"3",
-            "ingredients":"2 cups fresh grated coconut (I am using frozen grated coconut, easily available in Indian grocery stores)
-1 cup heavy cream
-1/2 cup milk
-1/2 cup sugar
-1 Tbsp coconut powder (for garnishing, optional)", 
-            "directions": "In a non-stick heavy bottom frying pan add all the ingredients, cream, milk, coconut and sugar, bring it to boil over medium high heat, stir occasionally. After coconut mix comes to boil reduce the heat to medium.
-Lower the heat to medium and let it cook for about 5 minutes stirring occasionally, scraping the sides (otherwise sides will start browning the mix), until mixture start coming together.
-Lower the heat to low medium, and stir continually this will be consistency of soft dough. This should take about 5 minutes. Turn of the heat.
-Transfer mixture to the plate, let the mix sit for about 10 minutes, then divide into 12 equal parts or make the size of ladoo you prefer. Roll them between you palm and shape them in round balls.",
+            "time":"1 Hour",
+            "ingredients":"\n• 2 cups fresh grated coconut (I am using frozen grated coconut, easily available in Indian grocery stores)\n
+\n• 1 cup heavy cream
+\n• 1/2 cup milk
+\n•  1/2 cup sugar
+\n•  1 Tbsp coconut powder (for garnishing, optional)", 
+            "directions": "\n• In a non-stick heavy bottom frying pan add all the ingredients, cream, milk, coconut and sugar, bring it to boil over medium high heat, stir occasionally. After coconut mix comes to boil reduce the heat to medium.\n
+\n• Lower the heat to medium and let it cook for about 5 minutes stirring occasionally, scraping the sides (otherwise sides will start browning the mix), until mixture start coming together.\n
+\n• Lower the heat to low medium, and stir continually this will be consistency of soft dough. This should take about 5 minutes. Turn of the heat.\n
+\n• Transfer mixture to the plate, let the mix sit for about 10 minutes, then divide into 12 equal parts or make the size of ladoo you prefer. Roll them between you palm and shape them in round balls.",
             "category":"dessert"
         },
         {
@@ -1337,21 +1338,21 @@ Transfer mixture to the plate, let the mix sit for about 10 minutes, then divide
             "id":43,
             "name":"Kesar Peda",
             "time":"30 Minutes",
-            "ingredients":"2 cups dry milk powder
-1 cup heavy cream
-1/2 cup sugar
-1/4 teaspoon crushed cardamom
-Few strands of saffron
-1 tablespoon milk to soak the saffron
-1 tablespoon sliced pistachios for garnishing", 
-            "directions": "Soak the saffron strand in warm milk. Set aside.
-Heat the frying pan on low heat, I like to use heavy bottom nonstick pan. Add cream and milk powder. Mix it well. Mix will start getting soft consistency of thick batter as it gets warm.
-Cook mixture on low medium heat stirring continuously until mixture becomes lumpy like soft dough. This should take about 12-15 minutes. Add saffron and cardamom mix it well and cook for 2-3 more minutes until it is consistency of soft dough. Turn off the heat. Now this is known as khoya.
-Transfer the khoya into a bowl and let it cool off until khoya becomes lukewarm.
-Add the sugar into the khoya and knead it for about a minute until everything blends together and become soft dough. Note: if you mix the sugar while khoya is hot that will make khoya soft and will not able to make peda.
-Divide the mix into 20 equal parts or more, less depends the size you prefer. Make them into ball rolling between your palms. Make a dent into the peda.
-Garnish them with pistachios.
-Finish peda consistency should be little grainy.",
+            "ingredients":"\n• 2 cups dry milk powder
+\n• 1 cup heavy cream
+\n• 1/2 cup sugar
+\n• 1/4 teaspoon crushed cardamom
+\n• Few strands of saffron
+\n• 1 tablespoon milk to soak the saffron
+\n• 1 tablespoon sliced pistachios for garnishing", 
+            "directions": "\n• Soak the saffron strand in warm milk. Set aside.\n
+\n• Heat the frying pan on low heat, I like to use heavy bottom nonstick pan. Add cream and milk powder. Mix it well. Mix will start getting soft consistency of thick batter as it gets warm.\n
+\n• Cook mixture on low medium heat stirring continuously until mixture becomes lumpy like soft dough. This should take about 12-15 minutes. Add saffron and cardamom mix it well and cook for 2-3 more minutes until it is consistency of soft dough. Turn off the heat. Now this is known as khoya.\n
+\n• Transfer the khoya into a bowl and let it cool off until khoya becomes lukewarm.\n
+\n• Add the sugar into the khoya and knead it for about a minute until everything blends together and become soft dough. Note: if you mix the sugar while khoya is hot that will make khoya soft and will not able to make peda.\n
+\n• Divide the mix into 20 equal parts or more, less depends the size you prefer. Make them into ball rolling between your palms. Make a dent into the peda.\n
+\n• Garnish them with pistachios.\n
+\n• Finish peda consistency should be little grainy.",
             "category":"dessert"
         },
         {
@@ -1361,16 +1362,16 @@ Finish peda consistency should be little grainy.",
             "id":44,
             "name":"Coconut Burfi",
             "time":"30 Minutes",
-            "ingredients":"2 cups coconut freshly grated, I am using frozen shredded coconut
-1-3/4 cups sugar
-1/2 cup blanched almond powder
-1/4 teaspoon cardamom powder", 
-            "directions": "In a non-stick frying pan add coconut and sugar, cook over low medium heat, stir continuously till sugar is melted and mixture starts to bubble.
-Add the almond powder and cardamom, keep stirring continuously, scraping the sides and bottom of the pan, until mixture start coming together and becomes consistency of soft dough. This should take about 6-7 minutes. Turn of the heat.
-Pour the mixture into greased plate while burfi mixture is still hot spread it evenly about 3/4 inch thick in a square shape. Press the mixture with spatula to make it firm.
-While burfi is still warm cut them in about one inch square.
-Allow the burfi to cool for about an hour to dry and hold its shape. Now you can remove the burfi from the plate.
-Burfi can be stored for 2 weeks in air tight container.",
+            "ingredients":"\n• 2 cups coconut freshly grated, I am using frozen shredded coconut
+\n• 1-3/4 cups sugar
+\n• 1/2 cup blanched almond powder
+\n• 1/4 teaspoon cardamom powder", 
+            "directions": "In a non-stick frying pan add coconut and sugar, cook over low medium heat, stir continuously till sugar is melted and mixture starts to bubble.\n
+\n• Add the almond powder and cardamom, keep stirring continuously, scraping the sides and bottom of the pan, until mixture start coming together and becomes consistency of soft dough. This should take about 6-7 minutes. Turn of the heat.\n
+\n• Pour the mixture into greased plate while burfi mixture is still hot spread it evenly about 3/4 inch thick in a square shape. Press the mixture with spatula to make it firm.\n
+\n• While burfi is still warm cut them in about one inch square.\n
+\n• Allow the burfi to cool for about an hour to dry and hold its shape. Now you can remove the burfi from the plate.\n
+\n• Burfi can be stored for 2 weeks in air tight container.",
             "category":"dessert"
         },
          {
@@ -1380,17 +1381,17 @@ Burfi can be stored for 2 weeks in air tight container.",
             "id":45,
             "name":"Lauki (Bottle Gourd) Halwa",
             "time":"30 Minutes",
-            "ingredients":"2 cups lauki peeled and shredded, before shredding remove the seeds (bottle gourd, doodhi, ghia, opo squash)
-2-1/2 cups milk
-2 tablespoons ghee, or clarified butter
-1/2 cup sugar
-1/2 teaspoon coarsely ground cardamom seeds
-2 tablespoons pistachio chopped", 
-            "directions": "Squeeze the water from shredded lauki after taking out the water lauki should be 2 cups packed. Set aside.
-Boil the milk on medium high heat in heavy bottom pan making sure milk does not burn. After milk comes to boil lower the heat to medium low and boil for ten minutes, until it becomes about 1-1/2 cups. Set aside.
-Melt the ghee in frying pan on medium heat add lauki and sauté for 3 minutes, or until it is tender but not mushy. Add milk mix well and bring it to boil, reduce heat to low and cook until mixture becomes thick. It will take approx. 10 minutes. Stir occasionally in between to prevent sticking.
-Add sugar, cardamom, and half the pistachios. Stir continuously and cook until mixture becomes of consistency of soft sticky dough, this will take approx. 3-4 minutes. Turn of the heat.
-Delicious lauki halwa is ready. Transfer it to serving bowl and garnish with remaining pistachios, and serve hot or at room temperature.",
+            "ingredients":"\n• 2 cups lauki peeled and shredded, before shredding remove the seeds (bottle gourd, doodhi, ghia, opo squash)
+\n• 2-1/2 cups milk
+\n• 2 tablespoons ghee, or clarified butter
+\n• 1/2 cup sugar
+\n• 1/2 teaspoon coarsely ground cardamom seeds
+\n• 2 tablespoons pistachio chopped", 
+            "directions": "\n• Squeeze the water from shredded lauki after taking out the water lauki should be 2 cups packed. Set aside.\n
+\n• Boil the milk on medium high heat in heavy bottom pan making sure milk does not burn. After milk comes to boil lower the heat to medium low and boil for ten minutes, until it becomes about 1-1/2 cups. Set aside.\n
+\n• Melt the ghee in frying pan on medium heat add lauki and sauté for 3 minutes, or until it is tender but not mushy. Add milk mix well and bring it to boil, reduce heat to low and cook until mixture becomes thick. It will take approx. 10 minutes. Stir occasionally in between to prevent sticking.\n
+\n• Add sugar, cardamom, and half the pistachios. Stir continuously and cook until mixture becomes of consistency of soft sticky dough, this will take approx. 3-4 minutes. Turn of the heat.\n
+\n• Delicious lauki halwa is ready. Transfer it to serving bowl and garnish with remaining pistachios, and serve hot or at room temperature.",
             "category":"dessert"
         },{
             "image":[
@@ -1399,70 +1400,160 @@ Delicious lauki halwa is ready. Transfer it to serving bowl and garnish with rem
             "id":46,
             "name":"Eggless Vanilla Cake with Strawberry Sauce",
             "time":"30 Minutes",
-            "ingredients":"1-3/4 cup all-purpose flour (maida or plain flour)
-4 tablespoons corn starch
-1 1/2 teaspoon baking powder
-1 teaspoon baking soda
-1/4 teaspoon salt
-1 cup unsalted butter room temperature
-1 cup sugar
-2 teaspoons vanilla extract
-1/2 cup yogurt room temperature
-1 cup milk room temperature
-Strawberry Sauce
+            "ingredients":"\n•  1-3/4 cup all-purpose flour (maida or plain flour)
+\n• 4 tablespoons corn starch
+\n• 1 1/2 teaspoon baking powder
+\n• 1 teaspoon baking soda
+\n• 1/4 teaspoon salt
+\n• 1 cup unsalted butter room temperature
+\n• 1 cup sugar
+\n• 2 teaspoons vanilla extract
+\n• 1/2 cup yogurt room temperature
+\n• 1 cup milk room temperature\n
+\n Strawberry Sauce\n
+\n• 1 cup raspberry, use fresh or frozen
+\n• 1-1/2 cup strawberry, use fresh or frozen
+\n• 1/4 cup fresh orange juice
+\n• 1 tablespoon corn starch
+\n• 3/4 cup sugar
+Also Need Cake molds", 
+            "directions": "\n• Preheat oven to 350 degree F\n.
+\n• Sieve flour, corn starch, baking soda, baking powder and salt, set aside.\n
+\n• In a bowl, cream the butter and sugar until creamy using the electric mixer on low speed. Do not over beat.\n
+\n• Add yogurt and vanilla essence to the butter mix keep mixing on low speed and add the milk slowly. Mix will not be very smooth.\n
+\n• Add the flour few spoons at a time into the batter. Keep folding using the whisk, until all the flour is incorporated in to the butter mix, Do not over beat.\n
+\n• Scoop the batter into baking molds filling them about 2/3 full.\n
+\n• Bake for 20 minutes check the cakes inserting a knife in the center and it should come out clean. It took me 22 minutes.\n
+\n• After cakes come to the room temperature take them out from the molds.\n
+\nStrawberry Sauce\n
 
-1 cup raspberry, use fresh or frozen
-1-1/2 cup strawberry, use fresh or frozen
-1/4 cup fresh orange juice
-1 tablespoon corn starch
-3/4 cup sugar
-Also Need
-
-Cake molds", 
-            "directions": "Preheat oven to 350 degree F.
-Sieve flour, corn starch, baking soda, baking powder and salt, set aside.
-In a bowl, cream the butter and sugar until creamy using the electric mixer on low speed. Do not over beat.
-Add yogurt and vanilla essence to the butter mix keep mixing on low speed and add the milk slowly. Mix will not be very smooth.
-Add the flour few spoons at a time into the batter. Keep folding using the whisk, until all the flour is incorporated in to the butter mix, Do not over beat.
-Scoop the batter into baking molds filling them about 2/3 full.
-Bake for 20 minutes check the cakes inserting a knife in the center and it should come out clean. It took me 22 minutes.
-After cakes come to the room temperature take them out from the molds.
-Strawberry Sauce
-
-First wash strawberries, and raspberries hulled and slice the strawberries.
-Combine all the ingredients except corn starch, in a small pot over medium high heat, bring to boil. Mix the corn starch with about 2 tablespoons of water making smooth paste and add to strawberries. This will make sauce creamy and will give thickness to the sauce.
-Lower the heat to medium cook for 2-3 minutes, stir continually. Turn off the heat and sauce ready.
-Top the cake with hot sauce. Enjoy!",
+\n•First wash strawberries, and raspberries hulled and slice the strawberries.\n
+\n•Combine all the ingredients except corn starch, in a small pot over medium high heat, bring to boil. Mix the corn starch with about 2 tablespoons of water making smooth paste and add to strawberries. This will make sauce creamy and will give thickness to the sauce.\n
+\n•Lower the heat to medium cook for 2-3 minutes, stir continually. Turn off the heat and sauce ready.\n
+\n•Top the cake with hot sauce. Enjoy!",
             "category":"dessert"
         },
         {
             "image":[
-                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/gulab_jamun_2014-300x168.jpg"
             ],
             "id":47,
             "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "time":"30 Minutes",
+            "ingredients":"\n• 1 cup nonfat milk powder
+\n• 1/4 cup all purpose flour (plain flour, maida)
+\n• 1/8 teaspoon baking soda
+\n• 1/2 cup heavy cream, use as needed
+\n• 1/4 teaspoon cardamom coarsely ground\n
+\nFor  Syrup\n
+\n• 1-1/2 cup sugar
+\n• 1-1/2 cup water
+\n• Oil to fry", 
+            "directions": "\nFor Syrup\n
+
+\n• In a pan add water, sugar bring it to boil, stir until the sugar has dissolved. Turn off the heat. Set aside.\n
+\nFor Gulab Jamun\n
+
+\n• In a bowl, mix milk powder, all purpose flour, baking soda, and cardamom add cream and mix it well. This will be consistency of soft dough, if it is too dry add 1 to 2 spoons of milk as needed not the cream. Dough should be very soft and sticking to fingers, as dough sits milk powder will absorb the extra cream. Cover and set aside for about 10 minutes.\n
+\n• Knead the dough; grease your palm before working the dough.\n
+\n• Divide the dough into 18 equal parts and roll them into round balls.\n
+\n• Heat the oil in a frying pan on medium heat. The frying pan should have at least 1 inch of oil. Notes: To test if the oil is the right temperature, place a small piece of dough into the oil; oil should sizzle but it should take about 30 seconds to rise the dough. If dough rises faster, oil is too hot; if dough just sits without rising, oil is not hot enough.\n
+\n• Place the gulab Jamuns in the frying pan. Note: remember gulab jamuns will expand in about double the size, so give them enough space, and don’t over crowed them.\n
+\n• It should take about 7 minutes to fry the gulab jamuns. While frying keep rolling the gulab jamuns so they are evenly browned. You can make gulab jamuns in different size and shapeFry until the gulab jamuns become brown.\n
+\n• Let the gulab jamuns cool off for a few minutes before placing them in the hot syrup, not boiling.\n
+\n• The gulab jamuns should sit in the syrup for at least 20 minutes prior to serving.",
             "category":"dessert"
-        },{
+        },
+        {
             "image":[
-                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/mango_panna_cotta-300x168.jpg"
             ],
             "id":48,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Mango Panna Cotta",
+            "time":"45 Minutes",
+            "ingredients":"for Cream Layer
+
+\n• 1 can (14 oz) coconut milk unsweetened
+\n• 1/4 cup sugar
+\n• 1teaspoon vanilla extract
+\n• 1-1/2 teaspoon agar-agar
+\nfor Mango Layer\n
+
+\n• 1-1/2 cup mango puree, (I used 1-1/2 mango, mango should not be over ripe)
+\n• 2 teaspoons lemon juice
+\n• 1/4 cup sugar use as needed depend on sweetness of mango
+\n• 1-1/2 teaspoon agar-agar", 
+            "directions": "\nFor Cream Layer\n
+
+\n• In a sauce pan add the coconut milk and sugar, bring it to boil over medium heat. Boil for 3-4 minutes.\n
+\n• Dissolve agar-agar in two tablespoons of luke warm water, add agar-agar and vanilla to coconut milk, boil for about 2 minutes, mixing continuously making sure there are no lumps. Turn off the heat.\n
+\n• Whisk the milk for a few minutes and pour into the dish. Let this sit for about 25 minutes before adding the mango layer. Note: as coconut will cool it will be getting firm like jello, before adding the mango layer coconut layer should be firm but not settled all the way completely.\n
+\nFor Mango Layer\n
+
+\n• In a sauce pan add the mango puree, sugar and lemon juice and bring it to boil over medium heat. Boil for 2-3 minutes.\n
+\n• Dissolve agar-agar in two tablespoons of luke warm water, add agar-agar to the mango pulp, boil for about 2 minutes mixing continuously, making sure there are no lumps.\n
+\n• Turn off the heat, whisk for few minutes.\n
+\n• Pour the mango puree over coconut, coconut milk should be little firm.\n
+\n• Refrigerate for about three hours before serving. Slice the panna cotta in individual serving pieces. White and yellow makes this look beautiful.\n
+\n• Mango panna cotta can be refrigerated for 5-6 days. Enjoy!",
+            "category":"dessert"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/falooda_kulfi-300x168.jpg"
+            ],
+            "id":49,
+            "name":"Falooda Kulfi",
+            "time":"20 Minutes",
+            "ingredients":"\n• 1/2 cup corn starch or arrowroot
+\n• 2 cup water
+\n• 1/2 cup sugar
+\n• 1/4 cup water
+\n• 12 strings of saffron
+\n• 1/2 cup kulfi for each serving, check my web site for kulfi recipe
+\n• Wide bowl of ice cold water with some ice
+\n• Also need sev maker", 
+            "directions": "\n• For syrup boil sugar, water and saffron together, as it comes to boil turn of the heat and stir the syrup making sure sugar has dissolved. Syrup needs to be chilled before serving, keep it in refrigerator.\n
+\n• Add water to corn starch slowly making sure there is no lumps, batter will look like consistency of milk.\n
+\n• Over low medium heat in a frying pan add the batter and cook stirring continuously till corn starch become translution and consistency of thick batter or soft lumpy dough. This will take about 10-12 minutes. Turn off the heat and remove from stove.\n
+\n• Let the mix cool off little bit and pour the hot mixture into sev maker using fine sev attachment. Press the sev maker over ice cold water, and let the sev string drop into the bowl.\n
+\n• Leave the falooda in ice cold water at least for 2 hours before using.\n
+\n• Falooda will stay good for about a week in refrigerator, but make sure falooda stays in chilled water.\n
+\n• Serving the Falooda Kulfi\n
+\n• Use individual serving bowl, first layer the bowel with falooda, drizzle about 1 tablespoon of syrup. Put the kulfi then over the kulfi put some more faluda and finish off drizzling 1 tablespoon of syrup. Falooda kulfi is ready to serve! This just taste great.",
+            "category":"dessert"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/malpua_indian_pancake-300x168.jpg"
+            ],
+            "id":50,
+            "name":"Malpua(Indian Pancake)",
+            "time":"1 Hour",
+            "ingredients":"2-1/2 cups of milk
+1/3 cup all purpose flour (maida plain flour)
+1/3 cup sugar
+Approx. 1/3 cup water use as needed
+1/2 teaspoon cardamom crushed (ilachi)
+2 tablespoons clarified butter (ghee)
+2 tablespoons sliced pistachios (pista) for garnishing", 
+            "directions": "Boil milk in heavy bottom pan over medium high heat till it reduces to about 1 cup, stir the milk occasionally and keep scrapping the sides. Add the cardamom and mix. This should take about 15 minutes after milk comes to boil. This is known as rabdi.
+In a bowl mix flour, 4 tablespoons of sugar, 1/3 cup of milk (rabdi), and about 1/3 cup or as needed water to make a smooth batter of pouring consistency. Keep the batter for about four to five hours before making the malpua.
+Add the remaining sugar to remaining milk (rabdi) and mix, set aside. This will be used for garnishing.
+Heat the non stick skillet over medium heat and grease it generously. Let the skillet get moderately hot.
+Pour approx. 1-1/4 tablespoons batter to the skillet and gently spread to 2-1/2 inch circle, to form a pancake. After top of the batter start drying spread about ½ teaspoon of clarified butter. Wait another minute and flip the malpua.
+Malpua should be golden brown on both sides.
+Set the malpuas in serving plate and pour about 1 teaspoon of reduced milk over and garnish with pistachios.
+Malpuas are ready to serve.",
             "category":"dessert"
         },
         
 
         {
             "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/moong_dal_halwa-300x225.jpg"
             ],
-            "id":46,
+            "id":54,
             "name":"Discussion Heat",
             "time":"3",
             "ingredients":"1 lota Panner  2 lota Selvam", 
