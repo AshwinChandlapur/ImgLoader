@@ -1184,7 +1184,6 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
           "category":"maincourse"
         },
 
- 
         {
             "image":[
                 "http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/42/62/0/picaDKUZa.jpg"
@@ -1256,7 +1255,7 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
             "name":"Sevaya Kheer",
             "time":"20 Minutes",
             "ingredients":"2 tbsp. ghee
-3 oz. vermicelli pasta, broken into 1" pieces
+3 oz. vermicelli pasta, broken into 1 pieces
 5 cups whole milk
 1⁄2 cup sugar
 1⁄4 cup pistachios, minced
@@ -1280,93 +1279,7 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
             "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
             "category":"dessert"
         },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":44,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":45,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":46,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":47,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":48,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },{
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":49,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":50,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
-        {
-            "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
-            ],
-            "id":51,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
-            "category":"dessert"
-        },
+        
         
 
         {
