@@ -2036,13 +2036,153 @@ Toast in toaster oven for about 4-5 minutes.",
         
         {
             "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/rava_kesari-300x169.jpg"
             ],
-            "id":55,
+            "id":65,
+            "name":"Rava Kesari",
+            "time":"20 Minutes",
+            "ingredients":"1 cup fine sooji (semolina)
+3/4 cup sugar
+4 Tbsp ghee (clarified butter)
+2 Tbsp sliced almonds
+8 drops yellow food color
+Pinch of saffron (kesar)
+1/8 tsp cardamom (crushed, ilachi)
+3-1/3 cups water
+1 Tbsp sliced pistachios (pista for garnishing)", 
+            "directions": "Boil the water with sugar, and cardamom powder in a pot over medium heat. Bring the syrup to boil, mix it making sure sugar is dissolve add the food color and mix. Set aside
+Melt 1 tablespoon of ghee in a frying pan on low medium heat. Add the sooji, and almonds and roast stirring continuously, sooji should be light golden brown in color and will have a light sweet aroma. This should take about 7-8 minutes.
+Add the syrup slowly, as you add the syrup to sooji water will splatter. Make sure there are no lumps. Cook for 2-3 minutes, stirring continuously. Add more water if halwa becomes very thick.
+Add the remaining ghee 1 tablespoon at a time and cook for 3-4 minutes stirring continuously. Rava Kesari will start leaving the sides of frying pan. Rava Kesari will have a texture of thick batter.
+Garnish the Rava Kesari with sliced pistachios, serve warm or at room temperature.",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":66,
+            "name":"Coconut-Almond Barfi",
+            "time":"30 Minutes",
+            "ingredients":"2 cups coconut freshly grated, I am using frozen shredded coconut
+1-3/4 cups sugar
+1/2 cup blanched almond powder
+1/4 teaspoon cardamom powder", 
+            "directions": "In a non-stick frying pan add coconut and sugar, cook over low medium heat, stir continuously till sugar is melted and mixture starts to bubble.
+Add the almond powder and cardamom, keep stirring continuously, scraping the sides and bottom of the pan, until mixture start coming together and becomes consistency of soft dough. This should take about 6-7 minutes. Turn of the heat.
+Pour the mixture into greased plate while burfi mixture is still hot spread it evenly about 3/4 inch thick in a square shape. Press the mixture with spatula to make it firm.
+While burfi is still warm cut them in about one inch square.
+Allow the burfi to cool for about an hour to dry and hold its shape. Now you can remove the burfi from the plate.
+Burfi can be stored for 2 weeks in air tight container.",
+            "category":"festive"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/peanut_chikki-300x168.jpg"
+            ],
+            "id":67,
+            "name":"Peanut Chikki (Peanut Brittle)",
+            "time":"25 Minutes",
+            "ingredients":"1 cup peanuts shelled unsalted raw
+1 cup sugar
+2 teaspoons of clarified butter or ghee
+1/4 teaspoon salt
+2 teaspoons ginger juice", 
+            "directions": "Grease about 5×7 plate and set aside.
+Dry roast the peanuts on medium heat stirring continuously for about 6 to 7 minutes until golden brown. Remove from pan, wait till they cool off rub between your palms and remove most of the skin. Lightly crush the peanuts.
+In a heavy bottom sauce pan, over medium high heat melt the butter, then add sugar, ginger, and salt.
+Keep stirring the sugar continuously till sugar start melting and changing the color to light brown. Turn off the heat as soon it comes to golden brown in color. Note: when sugar starts melting it changes the color very quickly and it can easily burn.
+Add peanuts stir quickly. Pour over the greased plate and spread evenly.
+Cool for a few minutes chikki should be warm, cut them in about 1-1/2 inch square.
+Store them in air tight container",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":68,
             "name":"Shawn V/s AnujJJ",
             "time":"3",
-            "ingredients":"1 lota Panner  2 lota Selvam", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":69,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":70,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":71,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":72,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":73,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":74,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+            "category":"festive"
+        },
+        {
+            "image":[
+                ""
+            ],
+            "id":75,
+            "name":"Shawn V/s AnujJJ",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
             "category":"festive"
         }
 
