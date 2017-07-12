@@ -6,12 +6,150 @@
                "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
             ],
             "id":1,
-            "name":"Panner Selvam Amma Taayi",
+            "name":"",
             "time":"1",
-            "ingredients":"1 lota Panner  2 lota Selvam", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selva",
+            "ingredients":"", 
+            "directions": "",
             "category":"breakfast"
         },
+        {
+            "image":[
+               "http://www.manjulaskitchen.com/blog/wp-content/uploads/jalapeno_cheese_paratha-300x169.jpg"
+            ],
+            "id":2,
+            "name":"Cheese Paratha",
+            "time":"30 Minutes",
+            "ingredients":"For Dough
+1 cup whole wheat flour (chapatti atta)
+1/2 teaspoon salt
+1/2 cup water
+For Filling
+2 cup grated mix cheese (I am using mix cheese, Cheddar, Colby and Monterey Jack)
+1/4 cup jalapeno (finely chopped, adjust to your taste)", 
+            "directions":"Making the Dough
+Mix flour, and salt, in a bowl add the water as needed to make soft dough. Knead the dough for about one minutes on a lightly greased surface to make soft, and pliable dough. Set aside for at least ten minutes.
+Making the Filling
+Cheese and Jalapeno pepper mix it well and divide in 6 equal parts and roll them. Set aside.
+Making the Parathas
+Divide the dough into six equal parts and form into balls.
+Roll dough ball into a 3” circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.
+Meanwhile heat the heavy skillet on medium heat until moderately hot. To test, sprinkle water on the skillet. If the water sizzles right away, the skillet is ready.
+Press the filled ball lightly on dry whole wheat flour from both sides.
+Using a rolling pin, roll the balls lightly to make six-inch circles, keeping the sealed side of the balls on top. If the dough sticks to the rolling pin or rolling surface, lightly dust the parathas with dry flour.
+Place the paratha on the skillet. When the paratha start to change color, and begins to puff up, flip it over. You will notice some golden-brown spots.
+After a few seconds, flip the paratha and press with a spatula making sure the paratha is golden-brown on both sides. Repeat for the remaining parathas.
+Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated for about a week. Re-heat using a skillet or oven.",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://www.manjulaskitchen.com/blog/wp-content/uploads/mooli_ka_paratha-300x168.jpg"
+            ],
+            "id":3,
+            "name":"Mooli Ka Paratha",
+            "time":"30 Minutes",
+            "ingredients":"For Dough
+
+1 cup whole wheat flour, atta
+½ teaspoon salt
+1 tablespoon oil
+½ cup water
+For Filling
+
+2 cups white radish/mooli shredded
+½ tablespoon salt
+½ teaspoon carom seeds / ajwain
+2 teaspoons green chili finely chopped
+2 tablespoons cilantro / hara dhania finely chopped
+Also need about ¼ cup whole wheat flour for rolling and 5 teaspoon oil for cooking paratha", 
+            "directions":"Making the Dough
+
+Mix flour, salt, and oil in a bowl add the water as needed to make soft dough. Knead the dough for about one minutes on a lightly greased surface to make soft, and pliable dough.
+Set the dough aside for at least ten minutes.
+Making the Filling
+
+Shred the mooli / white radish, add the salt to shredded mooli mix it well let it sit for about 2-3 minutes. Squeeze the water as much possible from mooli. Add all filling ingredients together, carom seeds, chili and cilantro mix it well. Do this processes just before you are ready to make parathas.
+Making of paratha
+
+Divide the dough into four equal parts.
+Take one part of the dough and with your fingers flatten the edges to form a three-inch circle, leaving the center a little thicker than the edges.
+Mold the dough into a cup and place the filling in the center, filling should be little less then dough. Pull the edges of the dough to wrap the filling.
+Heat an iron skillet or heavy skillet on medium high heat. Test by sprinkling it with a couple of drops of water. If the water sizzles right away, the skillet is ready.
+Press the filled ball lightly on dry whole wheat flour from both sides.
+Using a rolling pin, roll the balls lightly to make six-inch circles, keeping the sealed side of the balls on top. If the dough sticks to the rolling pin or rolling surface, lightly dust the parathas with dry flour.
+Place the paratha on the skillet. When the paratha start to change color flip it over. You will notice some golden-brown spots.
+After a few seconds, drizzle one teaspoon of oil over the paratha. Flip the paratha again and lightly press the paratha on the sides with a spatula, to help paratha cook through evenly.
+Flip again and press with a spatula making sure the paratha is golden-brown on both sides. Repeat for the remaining parathas.
+Paratha are best served hot and crispy. They will be soft if not served hot. If you are not going to serve them right away, cool them on a wire rack to keep them from getting soggy.
+Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated four to five days or frozen for up to a month.  Re-heat using a skillet or oven.
+Mooli paratha goes well with yogurt or potato with yogurt gravy.
+
+Enjoy!",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "https://pull-revisfoodography.netdna-ssl.com/wp-content/uploads/2015/09/paneer-masala-dosa-1.jpg"
+            ],
+            "id":4,
+            "name":"Paneer Dosa",
+            "time":"15 Minutes",
+            "ingredients":"Dosa batter for 4-5 dosas
+Check out my detailed post on How to make dosa and dosa batter
+Oil for making dosa
+
+Paneer Dosa filling recipe 
+
+Paneer /Indian Cottage cheese -200 grams
+Onion - 2
+Green chilli - 2
+Ginger - 1/2 inch piece
+Coriander leaves finely chopped -2 tbsp
+Oil - 1 tbsp
+Salt to taste", 
+            "directions": "Heat oil in a pan, add finely chopped onions, green chillies, ginger and saute until onions turn transparent.
+Then add paneer, need salt and coriander leaves. Saute for 2-3 minutes until everything gets blended well and switch off the flame. Now the filling for the dosa is ready.
+Since this is a dry filling/sabji, the dosa should not be too thin like masala dosa. It should be thicker than the normal dosa and a little thinner than uthappam.
+Now let us see how to make dosa with paneer filling-
+Heat a tawa, pour a ladle of dosa batter, spread it in a circular motion.
+As it gets cooked, holes start appearing. Drizzle a tsp of oil around the dosa.
+Once the sides of the dosa starts to lift up, flip it over to the other side. Let the other side get cooked. After it is cooked, flip again, place 2-3 tbsp of paneer filling and fold the dosa.
+Serve hot with sambar or chutney.
+",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://2.bp.blogspot.com/-lWYhppoHC7k/VqiUlQOUVbI/AAAAAAAAia8/IQ-8YUUKQvE/s640/IMG_8690.JPG"
+            ],
+            "id":5,
+            "name":"Ragi Adai",
+            "time":"30 Minutes",
+            "ingredients":" Ragi flour/finger millet flour - 1 cup
+   Carrot -1/2 a carrot
+   Cabbage - a small bit
+   Onion - 1 medium sized onion
+   Green chillies -2
+   Coriander leaves or tender curry leaves - few
+   Oil - 1 tsp
+
+   Oil for cooking the adai", 
+            "directions": "Heat 1 tsp of oil, add finely chopped onions, green chillies and saute until onions turn transparent.
+
+Then add carrot, cabbage, salt needed and cook for a few minutes covered. Since we have chopped the vegetable finely, it will not take more than 5 minutes to get cooked. Leave it to cool.
+
+Once it cools, add ragi flour to the vegetables and mix well. Add little salt as we have already added salt to the vegetables. Add water little at a time and make a dough.
+            Divide the dough into 6 equal sized balls. Grease a plantain leaf or a ziplock bag with oil and flatten the ragi dough ball with your fingers.
+
+Grease the tawa and heat it. Transfer the flattened dough to the tawa. If you have used plastic sheet, transfer to your hands first and then place it on the tawa. You can flatten the dough directly on the tawa also. If you are flattening the adai directly on the tawa, switch off the flame, flatten it and switch on again to prevent your hands from getting scorched.
+            The dough will start changing color. Drizzle oil around the adai and cook both sides well on medium heat.
+            Repeat the same process for the rest of the dough.
+
+Ragi adai should be served hot from the tawa. You can have any chutney or sambar as side dish for this adai.
+",
+            "category":"breakfast"
+        },
+                
         {
             "image":[
                "http://www.ndtv.com/cooks/images/oat%20and%20nut%20muffins-330.jpg"
@@ -651,8 +789,248 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
 \n• stir and serve amritsari chole hot garnished with coriander leaves along with some bhatura, naan, pooris or even steamed basmati rice.",
             "category":"breakfast"
         },
-
-
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },{
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+            "category":"breakfast"
+        },
+        
         {
             "image":[
                 "https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg"
@@ -916,7 +1294,199 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
 \n• Mix it well, do not knead the paneer. Put the paneer in a flat bowl and press it to spread evenly. Cover it and refrigerate for at least two hours.",
             "category":"appetizers"
         },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
 
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        {
+            "image":[
+               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+            ],
+            "id":1,
+            "name":"",
+            "time":"1",
+            "ingredients":"", 
+            "directions": "",
+                   "category":"appetizers"
+
+        },
+        
         {
             "image":[
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh75zj2xW4oNww-kJrKlWt6Jig0LLpdkDA7_2MGBBOr2e7_HdT6g"         ],
@@ -1238,15 +1808,158 @@ then drain the ice cold water. add the spinach in a blender or grinder jar with 
         },
         {
             "image":[
-                "https://2.bp.blogspot.com/-MfvJkQSOsao/VyYGH4R-xDI/AAAAAAAAMYo/vSgUkVgFJ_MRmYKutY5dSJPSgFgvqbz_ACKgB/s1600/Puliyogare%2B%25286%2Bof%2B11%2529.jpg"
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
             ],
             "id":38,
             "name":"Channa Oota",
             "time":"3",
             "ingredients":"", 
-            "directions": "1. Go Take Panner  2.Take Selvam  3. Mix Both Enjoy Panner Selvam",
+            "directions": "",
           "category":"maincourse"
         },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },{
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        {
+            "image":[
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
+            ],
+            "id":38,
+            "name":"Channa Oota",
+            "time":"3",
+            "ingredients":"", 
+            "directions": "",
+          "category":"maincourse"
+        },
+        
              {
             "image":[
                 "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
