@@ -1787,9 +1787,9 @@ You may adjust all the ingredients to your taste. Enjoy!",
             "image":[
                 "http://www.manjulaskitchen.com/blog/wp-content/uploads/batata_vada_bhonda_fried_potato_dumplings-300x168.jpg"
             ],
-            "id":57,
+            "id":58,
             "name":"Batata Vada – Aloo Bonda (Fried Potato Dumpling)",
-            "time":"30Minutes",
+            "time":"30 Minutes",
             "ingredients":"3 medium potatoes boiled peeled and roughly chopped (this will make 2 cups of chopped potatoes)
 1 tablespoon oil
 1/2 teaspoon black mustard seeds (rai)
@@ -1827,20 +1827,46 @@ Serve them hot with cilantro chutney.",
         },
         {
             "image":[
-                ""
+                "http://www.manjulaskitchen.com/blog/wp-content/uploads/mirchi_vada_chili_fritters-300x225.jpg"
             ],
-            "id":55,
-            "name":"Shawn V/s AnujJJ",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "id":59,
+            "name":"Mirchi Vada (Chili Fritter)",
+            "time":"15 Minutes",
+            "ingredients":"8 green chillies (I use yellow chilli peppers)
+For Filling
+
+1 cup potatoes boiled peeled and mashed
+1/2 teaspoon salt
+1/4 teaspoon cumin seeds (jeera)
+1 teaspoon coriander powder (dhania)
+1/4 teaspoon mango powder (amchoor)
+1 tablespoon chopped cilantro (hara dhania)
+1/4 teaspoon chilli powder (lal mirch), (optional)
+For Batter
+
+1/2 cup Besan (gram flour), (available in Indian grocery stores)
+1/4 teaspoon salt
+1/4 teaspoon cumin seeds (jeera)
+1/8 tablespoon baking powder
+1 tablespoon cilantro chopped (hara dhania)
+Approx. ¼ cup water
+Also need oil to deep fry", 
+            "directions": "Vertically slit the chili and remove the seeds,.but not the stems. Set aside.
+Mix all the filling ingredients together and set aside.
+To make the vada batter, mix all the dry ingredients together: Besan, cumin seeds, baking powder and salt. Add the water slowly to make thick smooth batter, the consistency of pancake batter.
+ Add cilantro and mix it well.
+Stuff the chilies with potato mix.
+Heat one inch of oil in a frying pan over medium heat. To test, put one drop of batter in the oil. The batter should form a small ball on the surface of the pan, but not change color right away.
+Dip the filled chilies in the batter one at a time, making sure each is covered with batter all around. Drop slowly into the frying pan.
+Fry the mirchi vada until all sides are golden brown, four to five minutes, turning occasionally. Take them out and place them on a paper towel.
+Vadas are best served hot. Serve them  Tamarind Chutney.",
             "category":"snacks"
         },
         {
             "image":[
                 ""
             ],
-            "id":55,
+            "id":60,
             "name":"Shawn V/s AnujJJ",
             "time":"3",
             "ingredients":"", 
