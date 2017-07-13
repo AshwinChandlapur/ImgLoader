@@ -570,9 +570,9 @@ Kosher salt and freshly ground black pepper",
 \n• Fresh salsa (optional)
 \n• 4small corn & whole wheat tortillas", 
             "directions": "\n•Spray a frying pan with olive oil or canola oil.\n
-\n•Over medium heat, add the eggs. Sprinkle with pepper, if desired.\n
-\n•Fold over once when cooked through and then add the eggs to the tortillas.\n
-\n•Garnish with sliced avocado and chopped cilantro.",
+\n• Over medium heat, add the eggs. Sprinkle with pepper, if desired.\n
+\n• Fold over once when cooked through and then add the eggs to the tortillas.\n
+\n• Garnish with sliced avocado and chopped cilantro.",
             "category":"breakfast"
         },
          {
@@ -796,31 +796,31 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
             "id":22,
             "name":"Kanda Poha",
             "time":"10 Minutes",
-            "ingredients":"1/2 cup finely chopped onions
-2 cups beaten rice (poha)
-2 tbsp oil
-1/4 cup raw peanuts
-1/2 tsp mustard seeds ( rai / sarson)
-1/2 tsp cumin seeds (jeera)
-4 curry leaves (kadi patta)
-2 tsp finely chopped green chillies
-a pinch of asafoetida (hing)
-1/2 tsp turmeric powder (haldi)
-salt to taste
+            "ingredients":"\n• 1/2 cup finely chopped onions
+\n• 2 cups beaten rice (poha)
+\n• 2 tbsp oil
+\n• 1/4 cup raw peanuts
+\n• 1/2 tsp mustard seeds ( rai / sarson)
+\n• 1/2 tsp cumin seeds (jeera)
+\n• 4 curry leaves (kadi patta)
+\n• 2 tsp finely chopped green chillies
+\n• a pinch of asafoetida (hing)
+\n• 1/2 tsp turmeric powder (haldi)
+\n• salt to taste\n
 
 For The Garnish
-8 tsp freshly grated coconut
-8 tsp nylon sev
-8 tsp finely chopped coriander (dhania)
+\n• 8 tsp freshly grated coconut
+\n• 8 tsp nylon sev
+\n• 8 tsp finely chopped coriander (dhania)\n
 
 For Serving
-4 lemon wedges", 
-            "directions": "Clean and wash the rice flakes in a sieve in enough water and keep aside.
-Heat the oil in a deep non-sick pan, add the peanuts and sauté on a medium flame for 2 minutes.
-Add the mustard seeds, cumin seeds, curry leaves, green chillies, asafoetida and onions and sauté on a medium flame for 1 to 2 minutes.
-Add the turmeric powder, rice flakes and salt, mix well and cook on a medium flame for 2 to 3 minutes, while stirring occasionally.
-Place equal portions of poha on 4 plates, garnish each plate with 2 tsp of coconut, 1 tsp of sev and 1 tsp of coriander evenly over it.
-Serve immediately with lemon wedges.",
+\n• 4 lemon wedges", 
+            "directions": "\n• Clean and wash the rice flakes in a sieve in enough water and keep aside.\n
+\n• Heat the oil in a deep non-sick pan, add the peanuts and sauté on a medium flame for 2 minutes.\n
+\n• Add the mustard seeds, cumin seeds, curry leaves, green chillies, asafoetida and onions and sauté on a medium flame for 1 to 2 minutes.\n
+\n• Add the turmeric powder, rice flakes and salt, mix well and cook on a medium flame for 2 to 3 minutes, while stirring occasionally.\n
+\n• Place equal portions of poha on 4 plates, garnish each plate with 2 tsp of coconut, 1 tsp of sev and 1 tsp of coriander evenly over it.\n
+\n• Serve immediately with lemon wedges.",
             "category":"breakfast"
         },
         {
@@ -830,21 +830,21 @@ Serve immediately with lemon wedges.",
             "id":23,
             "name":"Masala Khakhra",
             "time":"10 Minutes",
-            "ingredients":"1/2 cup whole wheat flour (gehun ka atta)
-1 tsp besan (bengal gram flour)
-1/2 tsp cumin seeds (jeera)
-1/2 tsp chilli powder
-a pinch of turmeric powder (haldi)
-a pinch of asafoetida (hing)
-2 1/2 tbsp low- fat milk
-1 tsp oil
-salt to taste
-whole wheat flour (gehun ka atta) for rolling", 
-            "directions": "Combine all the ingredients and knead into a soft dough without using any water.
-Divide the dough into 4 equal portions and roll out each portion into a very thin round of 175 mm.diameter using a little whole wheat flour for rolling.
-Heat a non-stick tava (griddle) and cook each khakhra on a slow flame till pink spots appear on both the sides.
-Continue cooking the khakhra on a slow flame, while pressing with a folded muslin cloth, till it turns crisp and brown from both the sides.
-Cool and store in an air-tight container.",
+            "ingredients":"\n• 1/2 cup whole wheat flour (gehun ka atta)
+\n• 1 tsp besan (bengal gram flour)
+\n• 1/2 tsp cumin seeds (jeera)
+\n• /2 tsp chilli powder
+\n• a pinch of turmeric powder (haldi)
+\n• a pinch of asafoetida (hing)
+\n• 2 1/2 tbsp low- fat milk
+\n• 1 tsp oil
+\n• salt to taste
+\n• whole wheat flour (gehun ka atta) for rolling", 
+            "directions": "\n• Combine all the ingredients and knead into a soft dough without using any water.\n
+\n• Divide the dough into 4 equal portions and roll out each portion into a very thin round of 175 mm.diameter using a little whole wheat flour for rolling.\n
+\n• Heat a non-stick tava (griddle) and cook each khakhra on a slow flame till pink spots appear on both the sides.\n
+\n• Continue cooking the khakhra on a slow flame, while pressing with a folded muslin cloth, till it turns crisp and brown from both the sides.\n
+\n• Cool and store in an air-tight container.",
             "category":"breakfast"
         },
         {
@@ -854,15 +854,15 @@ Cool and store in an air-tight container.",
             "id":24,
             "name":"Cucumber Soya Pancake",
             "time":"20 Minutes",
-            "ingredients":"1 cup thickly grated cucumber
-1/2 cup soya flour
-1/2 cup semolina (rava)
-2 tsp finely chopped green chillies
-1/2 cup finely chopped coriander (dhania)
-2 tbsp low-fat curds
-salt to taste
-2 1/4 tsp oil for greasing and cooking", 
-            "directions": "Combine all the ingredients along with 1 cup of water in a bowl and mix well to make a batter of dropping consistency.
+            "ingredients":"\n• 1 cup thickly grated cucumber
+\n• 1/2 cup soya flour
+\n• 1/2 cup semolina (rava)
+\n• 2 tsp finely chopped green chillies
+\n• 1/2 cup finely chopped coriander (dhania)
+\n• 2 tbsp low-fat curds
+\n• salt to taste
+\n• 2 1/4 tsp oil for greasing and cooking", 
+            "directions": "\n• Combine all the ingredients along with 1 cup of water in a bowl and mix well to make a batter of dropping consistency.
             Heat a non-stick tava (griddle) and grease it lightly using ¼ tsp of oil.
             Pour a ladleful of the batter on it and spread in a circular motion to make a pancake of 125 mm. (5”) in diameter circle.
             Cook, using ¼ tsp of oil, till it is golden brown in colour from both the sides.
