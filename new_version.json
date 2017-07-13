@@ -924,8 +924,8 @@ Serve immediately with green chutney.
             "id":27,
             "name":"",
             "time":"1",
-            "ingredients":"", 
-            "directions": "",
+            "ingredients":" ", 
+            "directions": " ",
             "category":"breakfast"
         },
         {
