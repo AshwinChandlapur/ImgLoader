@@ -32,7 +32,7 @@ Making the Filling
 Cheese and Jalapeno pepper mix it well and divide in 6 equal parts and roll them. Set aside.
 Making the Parathas
 Divide the dough into six equal parts and form into balls
-Roll dough ball into a 3” circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.
+Roll dough ball into a 3 circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.
 Meanwhile heat the heavy skillet on medium heat until moderately hot. To test, sprinkle water on the skillet. If the water sizzles right away, the skillet is ready.
 Press the filled ball lightly on dry whole wheat flour from both sides.
 Using a rolling pin, roll the balls lightly to make six-inch circles, keeping the sealed side of the balls on top. If the dough sticks to the rolling pin or rolling surface, lightly dust the parathas with dry flour.
@@ -3617,68 +3617,151 @@ Serve hot with onions and lemon wedges.
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_papadi,_potato_and_chick_pea_chaat-9265.jpg?size=696X905"
             ],
             "id":111,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Papadi, Potato and Chick Pea Chaat",
+            "time":"15 Minutes",
+            "ingredients":"2 cups coarsely crushed readymade papdis
+3/4 cup boiled and peeled potato cubes
+1/2 cup soaked and boiled kabuli chana (white chick peas)
+3 tbsp chopped pineapple
+3 tbsp chopped raw mango
+1/4 cup sweet chutney
+2 tbsp green chutney
+3/4 cup whisked fresh curds
+1/2 tsp cumin seeds (jeera) powder
+1 tsp chilli powder
+1/2 tsp chaat masala
+salt to taste", 
+            "directions": "Combine all the ingredients in a deep bowl and mix well.
+Serve immediately.
+",
             "category":"snacks"
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_crusty_potato_fingers_(_mexican_recipe)-9805.jpg?size=696X905"
             ],
             "id":112,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Crusty Potato Fingers",
+            "time":"30 Minutes",
+            "ingredients":"2 cups potato fingers
+crushed corn flakes for coating
+oil for deep-frying
+
+To Be Mixed Into A Smooth Batter
+3/4 cup plain flour (maida)
+1 tbsp cornflour
+salt to taste
+1 cup of water
+
+To Be Blended Into Coarse Paste (using No Water)
+1/2 cup roughly chopped onions
+2 tsp roughly chopped green chillies
+12 mm ( 1/2 ") piece of ginger (adrak)
+salt to taste", 
+            "directions": "Boil enough water in a deep non-stick pan, add the salt and the potato fingers, mix gently and cook on a medium flame for 7 minutes.
+Drain the excess water and refresh it using enough cold water. Keep aside.
+Combine the coarse paste and the batter in a deep bowl and mix well.
+Dip each potato finger in the batter and roll in the cornflakes till it is evenly coated from all the sides.
+Heat the oil in a kadhai and deep-fry a few potato fingers, at a time, till they turn golden brown in colour from both the sides.
+Drain on an absorbent paper.
+Serve immediately with salsa.",
             "category":"snacks"
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_palak_pakoda_chaat-9619.jpg?size=696X905"
             ],
             "id":113,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Crispy Palak Bhajiya",
+            "time":"40 Minutes",
+            "ingredients":"25 fresh spinach (palak) leaves , washed and dried
+1 cup besan (bengal gram flour)
+1/2 tsp chilli powder
+salt to taste
+oil for deep-frying
+
+For Sprinkling
+1 tsp chilli powder
+1 tsp cumin seeds (jeera) powder", 
+            "directions": "Combine the besan, chilli powder, salt and ¾ cup of water in a deep bowl and mix well. Keep aside.
+Heat the oil in a deep non-stick kadhai and when hot, dip each spinach leaf in the besan batter and drop a few leaves at a time into the hot oil. Fry until golden brown, remove and drain on an absorbent paper. Repeat for the remaining spinach leaves.
+Place the crispy spinach on a serving plate. Sprinkle a little chilli powder and a little roasted cumin seeds powder over each leaf and serve immediately.",
             "category":"snacks"
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_muli_dumplings-11825.jpg?size=696X905"
             ],
             "id":114,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Healthy Radish Dumplings",
+            "time":"15 Minutes",
+            "ingredients":"1 1/2 cups finely chopped mooli (radish) leaves
+1/2 cup besan (bengal gram flour)
+2 tbsp whole wheat flour ( gehun ka atta)
+2 tsp curds (dahi)
+2 tsp finely chopped green chillies
+a pinch of asafoetida (hing)
+1/2 tsp sugar
+1 tsp oil
+salt to taste
+
+For Serving
+green chutney", 
+            "directions": "Combine all the ingredients in a deep bowl and mix very well.
+Place spoonfuls of the mixture into a greased thali, and steam in a steamer for 10 minutes.
+Serve immediately with green chutney.",
             "category":"snacks"
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_spicy_masala_papad,_deep-fried_masala_papad-11563.jpg?size=696X905"
             ],
             "id":115,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Spicy Masala Papad",
+            "time":"5 Minutes",
+            "ingredients":"4 mini deep-fried papads
+
+For The Tomato Masala
+1/2 cup chopped tomatoes
+1/2 tsp mustard seeds ( rai / sarson)
+4 to 5 curry leaves (kadi patta)
+1/4 cup finely chopped onions
+2 tsp finely chopped green chillies
+2 tbsp oil
+salt to taste
+1/2 tsp garam masala
+1 tbsp finely chopped coriander (dhania)", 
+            "directions": "For the tomato masala
+Heat the oil in a broad non-stick pan, add the mustard seeds and sauté on a medium flame for 30 seconds.
+Add the onions and green chillies and sauté on a medium flame for 1 minute.
+Add the tomatoes, mix well and cook on a medium flame for 4 minutes, while stirring occasionally.
+Add the garam masala, coriander and salt, mix well and cook on a medium flame for 1 minute, while stirring occasionally.
+Divide the mixture into 4 equal portions. Keep aside.
+How to proceed
+Arrange the deep-fried mini papads on a serving plate. Put a portion of the topping evenly over it.
+Serve immediately.
+",
             "category":"snacks"
         },
         {
             "image":[
-                ""
+                "https://www.tarladalal.com/members/9306/big/big_masala_corn_(__tiffin_treats)-11463.jpg?size=696X905"
             ],
             "id":116,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Masala Corn",
+            "time":"10 Minutes",
+            "ingredients":"2 cups boiled sweet corn kernels (makai ke dane)
+1 tbsp butter
+1 tsp chilli powder
+1 tsp chaat masala
+1 tbsp lemon juice
+salt to taste", 
+            "directions": "Heat the butter in a broad non-stick pan, add the sweet corn kernels and sauté on a medium flame for 1 to 2 minutes.
+Add the chilli powder, chaat masala, lemon juice and salt, mix well and cook on a medium flame for another 1 to 2 minutes, while stirring occasionally.
+",
             "category":"snacks"
         },
         {
