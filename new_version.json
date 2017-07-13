@@ -925,35 +925,84 @@ Serve immediately with sambhar.",
         },
         {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "https://www.tarladalal.com/members/9306/big/big_sabudana_khichdi-8895.jpg?size=696X905"
             ],
             "id":27,
-            "name":"",
-            "time":"1",
-            "ingredients":" ", 
-            "directions": " ",
+            "name":"Sabudana Khichdi",
+            "time":"2 Hours",
+            "ingredients":"1 cup sago (sabudana) , washed and drained
+2 tbsp oil
+1 tsp cumin seeds (jeera)
+3/4 cup boiled and peeled potato cubes
+salt or rock salt to taste
+1/2 cup roasted coarsely powdered peanuts
+2 tbsp finely chopped coriander (dhania)
+2 tsp finely chopped green chillies
+5 to 6 curry leaves (kadi patta)
+2 tsp lemon juice
+2 tsp sugar", 
+            "directions": "Combine the sago and ¾ cup of water in a deep bowl, mix well and keep aside to soak for 2 hours. Keep aside.
+Heat the oil in a deep non-stick pan and add the cumin seeds.
+When the seeds crackle, add the potatoes, sago, salt, peanuts, coriander, green chillies, curry leaves, lemon juice and sugar, mix well and cook on a medium flame for 2 minutes.
+Serve hot.",
             "category":"breakfast"
         },
         {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "https://www.tarladalal.com/members/9306/big/big_tomato_upma,_south_indian_tomato_upma-12770.jpg?size=696X905"
             ],
             "id":28,
-            "name":"",
-            "time":"1",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Tomato Upma",
+            "time":"21 Minutes",
+            "ingredients":"3/4 cup roughly chopped tomatoes
+1 cup semolina (rava / sooji)
+2 tbsp oil
+1 tsp mustard seeds ( rai / sarson)
+1 tsp urad dal (split black lentils)
+4 curry leaves (kadi patta)
+1/2 cup finely chopped onions
+1 tsp chilli powder
+1 tsp sugar
+salt to taste
+2 tbsp finely chopped coriander (dhania)", 
+            "directions": "Combine the tomatoes in a mixer and blend to a smooth pulp. Keep aside.
+
+Heat the oil in a deep non-stick pan, add the mustard seeds, urad dal and curry leaves and sauté on a medium flame for 30 seconds.
+Add the onions and sauté on medium flame for 2 minutes.
+Add the semolina and sauté on a medium flame for 4 minutes.
+Add the tomato pulp, chilli powder, sugar, salt and coriander, mix well and cook on a medium flame for 1 to 2 minutes, while stirring continuously.
+Add 3 cups of hot water, mix well and cover with a lid and cook on a medium flame for 2 minutes, while stirring occasionally.
+Serve immediately.",
             "category":"breakfast"
         },
         {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "https://www.tarladalal.com/members/9306/big/big_chatpata_dahiwala_bread-12241.jpg?size=696X905"
             ],
             "id":29,
-            "name":"",
-            "time":"1",
-            "ingredients":"", 
-            "directions": "",
+            "name":"Chatpata Dahiwala Bread",
+            "time":"10 Minutes",
+            "ingredients":"5 bread slices , cut into cubes
+1/2 cup curds (dahi)
+1/4 tsp turmeric powder (haldi)
+1/2 tsp chilli powder
+salt to taste
+1/2 tsp cumin seeds (jeera)
+1/4 tsp asafoetida (hing)
+3 to 4 curry leaves (kadi patta)
+1/2 tsp grated ginger (adrak)
+1/4 cup thinly sliced onions
+2 tbsp oil
+
+For The Garnish
+1 tbsp finely chopped coriander (dhania)", 
+            "directions": "Combine the curds, turmeric powder, chilli powder and salt along with 2 tbsp of water in a bowl and mix well.
+Add the bread cubes and mix till the bread is coated with the curds mixture. Keep aside.
+Heat the oil in a broad non-stick pan and add the cumin seeds.
+When the seeds crackle, add the asafoetida, curry leaves and ginger and sauté on medium flame for a few seconds.
+Add the onion slices and saute on a medium flame for 1 to 2 minutes or till they are lightly brown in colour.
+Add the bread mixture and sauté on a slow flame for 1 to 2 minutes or till the bread turns light brown in colour, while stirring occasionally.
+Serve hot garnished with coriander.",
             "category":"breakfast"
         },
         {
