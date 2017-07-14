@@ -19,18 +19,18 @@
             "id":2,
             "name":"Cheese Paratha",
             "time":"30 Minutes",
-            "ingredients":"\nFor Dough\n
+            "ingredients":"\nFor Dough:\n
 \n• 1 cup whole wheat flour (chapatti atta)
 \n• 1/2 teaspoon salt
-\n• 1/2 cup water
+\n• 1/2 cup water\n
 \nFor Filling\n
-\n• 2 cup grated mix cheese (I am using mix cheese, Cheddar, Colby and Monterey Jack)
+\n• 2 cup grated mix cheese 
 \n• 1/4 cup jalapeno (finely chopped, adjust to your taste)", 
             "directions":"\nMaking the Dough\n
 \n• Mix flour, and salt, in a bowl add the water as needed to make soft dough. Knead the dough for about one minutes on a lightly greased surface to make soft, and pliable dough. Set aside for at least ten minutes.
 \nMaking the Filling\n
 \n• Cheese and Jalapeno pepper mix it well and divide in 6 equal parts and roll them. Set aside.\n
-\nMaking the Parathas\n
+\nMaking the Parathas:\n
 \n• Divide the dough into six equal parts and form into balls\n
 \n• Roll dough ball into a 3 circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.\n
 \n• Meanwhile heat the heavy skillet on medium heat until moderately hot. To test, sprinkle water on the skillet. If the water sizzles right away, the skillet is ready.\n
@@ -48,13 +48,13 @@
             "id":3,
             "name":"Mooli Ka Paratha",
             "time":"30 Minutes",
-            "ingredients":"\nFor Dough\n
+            "ingredients":"\nFor Dough:\n
 
 \n• 1 cup whole wheat flour, atta
 \n• ½ teaspoon salt
 \n• 1 tablespoon oil
 \n• ½ cup water
-\nFor Filling\n
+\nFor Filling:\n
 
 \n• 2 cups white radish/mooli shredded
 \n• ½ tablespoon salt
@@ -71,7 +71,7 @@
 \n• Shred the mooli / white radish, add the salt to shredded mooli mix it well let it sit for about 2-3 minutes. Squeeze the water as much possible from mooli. Add all filling ingredients together, carom seeds, chili and cilantro mix it well. Do this processes just before you are ready to make parathas.
 \nMaking of paratha\n
 
-\n• Divide the dough into four equal parts.
+\n• Divide the dough into four equal parts.\n
 \n• Take one part of the dough and with your fingers flatten the edges to form a three-inch circle, leaving the center a little thicker than the edges.\n
 \n• Mold the dough into a cup and place the filling in the center, filling should be little less then dough. Pull the edges of the dough to wrap the filling.\n
 \n• Heat an iron skillet or heavy skillet on medium high heat. Test by sprinkling it with a couple of drops of water. If the water sizzles right away, the skillet is ready.\n
@@ -275,7 +275,7 @@ Enjoy!",
 \n• 1 teaspoon salt
 \n• 1/2 teaspoon mango powder (amchoor)
 \n• 1/4 teaspoon garam masala
-About 2 tablespoon cilantro (hara dhania) finely chopped
+\n• About 2 tablespoon cilantro (hara dhania) finely chopped
 \nfor Puri\n
 \n• 1 cup whole wheat flour
 \n• 1 tablespoon soji / semolina
@@ -558,7 +558,7 @@ Kosher salt and freshly ground black pepper",
 \n• 1 avocado, sliced
 \n• Few sprigs of cilantro
 \n• Fresh salsa (optional)
-\n• 4small corn & whole wheat tortillas", 
+\n• 4 small corn & whole wheat tortillas", 
             "directions": "\n•Spray a frying pan with olive oil or canola oil.\n
 \n• Over medium heat, add the eggs. Sprinkle with pepper, if desired.\n
 \n• Fold over once when cooked through and then add the eggs to the tortillas.\n
@@ -734,7 +734,7 @@ also take 8 to 10 curry leaves, 10 to 12 cashews, 1 tsp chana dal and 1 tsp urad
         },
          {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "http://www.vegrecipesofindia.com/wp-content/uploads/2012/12/amritsari-chole.jpg"
             ],
             "id":21,
             "name":"Amritsari chole",
@@ -1004,13 +1004,49 @@ For Serving
         },
         {
             "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
+               "https://www.tarladalal.com/members/9306/big/big_aloo_paratha-7707.jpg?size=696X905"
             ],
             "id":30,
-            "name":"",
-            "time":"1",
-            "ingredients":"", 
-            "directions": "",
+            "name":" Punjabi Aloo Paratha",
+            "time":"15 Minutes",
+            "ingredients":"\nFor The Dough\n
+\n• 2 1/4 cups whole wheat flour (gehun ka atta)
+\n• 2 tbsp melted ghee
+\n• salt to taste
+
+\nFor The Stuffing\n
+\n• 2 1/2 cups boiled , peeled and mashed potatoes
+\n• 2 tsp melted ghee
+\n• 1 tsp cumin seeds (jeera)
+\n• 1/2 cup finely chopped onions
+\n• 1 tbsp finely chopped green chillies
+\n• salt to taste
+\n• 1/2 tsp chilli powder
+\n• 2 tbsp finely chopped coriander (dhania)
+\n• 2 tsp dried mango powder (amchur)
+\n• whole wheat flour (gehun ka atta) for rolling
+\n• ghee for cooking and greasing
+
+\nFor Serving\n
+\n• curd
+", 
+            "directions": "\n• Combine the whole wheat flour, ghee and salt in a bowl and mix well.\n
+
+\n• Add enough water and knead into a semi-stiff dough. Keep aside.\n
+\nFor the stuffing\n
+\n• Heat the ghee in a broad non-stick pan and add the cumin seeds.\n
+\n• When the seeds crackle, add the onions and sauté on a medium flame for 1 to 2 minutes.\n
+\n• Add the green chillies, mix well and sauté on a medium flame for 1 minute.\n
+\n• Add the potatoes, salt, chilli powder, coriander, dry mango powder, mix well and cook on a medium flame for 1 to 2 minutes, while stirring continuously.\n
+\n• Divide the stuffing into 12 equal portions and keep aside.\n
+\nHow to proceed\n
+\n• Divide the dough into 12 equal portions and roll a portion of the dough into a circle of of 100 mm. diameter circle.\n
+\n• Place a little stuffing in the centre of the circle.\n
+\n• Bring together all the sides in the centre and seal tightly.\n
+\n• Roll again into a circle of 150 mm. diameter circle with a little flour.\n
+\n• Heat a non-stick tava (griddle) and cook the paratha using a little ghee until golden brown spots appear on both the sides.\n
+\n• Rep eat with the remaining dough and stuffing to make 11 more parathas.\n
+\n• Serve immediately with fresh curds.",
             "category":"breakfast"
         },
        
@@ -2528,51 +2564,6 @@ Just before serving, turn upside down on a big serving plate and serve immediate
                 ""
             ],
             "id":72,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-          "category":"maincourse"
-        },
-{
-            "image":[
-                ""
-            ],
-            "id":73,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-          "category":"maincourse"
-        },
-{
-            "image":[
-                ""
-            ],
-            "id":74,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-          "category":"maincourse"
-        },
-{
-            "image":[
-                ""
-            ],
-            "id":75,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-          "category":"maincourse"
-        },
-
-        {
-            "image":[
-                "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
-            ],
-            "id":76,
             "name":"Channa Oota",
             "time":"3",
             "ingredients":"", 
