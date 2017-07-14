@@ -972,27 +972,27 @@ For Serving
             "id":29,
             "name":"Chatpata Dahiwala Bread",
             "time":"10 Minutes",
-            "ingredients":"5 bread slices , cut into cubes
-1/2 cup curds (dahi)
-1/4 tsp turmeric powder (haldi)
-1/2 tsp chilli powder
-salt to taste
-1/2 tsp cumin seeds (jeera)
-1/4 tsp asafoetida (hing)
-3 to 4 curry leaves (kadi patta)
-1/2 tsp grated ginger (adrak)
-1/4 cup thinly sliced onions
-2 tbsp oil
+            "ingredients":"\n• 5 bread slices , cut into cubes
+\n• 1/2 cup curds (dahi)
+\n• 1/4 tsp turmeric powder (haldi)
+\n• 1/2 tsp chilli powder
+\n• salt to taste
+\n• 1/2 tsp cumin seeds (jeera)
+\n• 1/4 tsp asafoetida (hing)
+\n• 3 to 4 curry leaves (kadi patta)
+\n• 1/2 tsp grated ginger (adrak)
+\n• 1/4 cup thinly sliced onions
+\n• 2 tbsp oil
 
-For The Garnish
-1 tbsp finely chopped coriander (dhania)", 
-            "directions": "Combine the curds, turmeric powder, chilli powder and salt along with 2 tbsp of water in a bowl and mix well.
-Add the bread cubes and mix till the bread is coated with the curds mixture. Keep aside.
-Heat the oil in a broad non-stick pan and add the cumin seeds.
-When the seeds crackle, add the asafoetida, curry leaves and ginger and sauté on medium flame for a few seconds.
-Add the onion slices and saute on a medium flame for 1 to 2 minutes or till they are lightly brown in colour.
-Add the bread mixture and sauté on a slow flame for 1 to 2 minutes or till the bread turns light brown in colour, while stirring occasionally.
-Serve hot garnished with coriander.",
+\nFor The Garnish\n
+\n• 1 tbsp finely chopped coriander (dhania)", 
+            "directions": "Combine the curds, turmeric powder, chilli powder and salt along with 2 tbsp of water in a bowl and mix well.\n
+\n• Add the bread cubes and mix till the bread is coated with the curds mixture. Keep aside.\n
+\n• Heat the oil in a broad non-stick pan and add the cumin seeds.\n
+\n• When the seeds crackle, add the asafoetida, curry leaves and ginger and sauté on medium flame for a few seconds.\n
+\n• Add the onion slices and saute on a medium flame for 1 to 2 minutes or till they are lightly brown in colour.\n
+\n• Add the bread mixture and sauté on a slow flame for 1 to 2 minutes or till the bread turns light brown in colour, while stirring occasionally.\n
+\n• Serve hot garnished with coriander.",
             "category":"breakfast"
         },
         {
@@ -1277,29 +1277,29 @@ Serve hot garnished with coriander.",
             "id":39,
             "name":"Aloo Mutter Korma",
             "time":"30 Minutes",
-            "ingredients":"1 cup boiled potato cubes
-3/4 cup boiled fresh green peas
-1 tbsp oil
-1/2 tsp cumin seeds (jeera)
-1/2 cup chopped onions
-1/2 tsp ginger-green chilli paste
-1/2 tsp garlic (lehsun) paste
-1 cup chopped tomatoes
-1/2 tsp turmeric powder (haldi)
-1 tsp chilli powder
-1/2 tsp garam masala
-1/2 tsp sugar
-salt to taste
+            "ingredients":"\n• 1 cup boiled potato cubes
+\n• 3/4 cup boiled fresh green peas
+\n• 1 tbsp oil
+\n• 1/2 tsp cumin seeds (jeera)
+\n• 1/2 cup chopped onions
+\n• 1/2 tsp ginger-green chilli paste
+\n• 1/2 tsp garlic (lehsun) paste
+\n• 1 cup chopped tomatoes
+\n• 1/2 tsp turmeric powder (haldi)
+\n• 1 tsp chilli powder
+\n• 1/2 tsp garam masala
+\n• 1/2 tsp sugar
+\n• salt to taste
 
-For The Garnish
-1 tbsp chopped coriander (dhania)", 
-            "directions": "Heat the oil in a deep non-stick pan, add the cumin seeds and sauté on a medium flame for a few seconds.
-Add the onions and sauté on medium flame for 1 minute.
-Add the ginger-green chilli paste, garlic paste and sauté on a medium flame for a few seconds.
-Add the tomatoes, mix well and cook on medium flame for 8 minutes ,while stirring occasionally.
-Add the turmeric powder, chilli powder, garam masala, sugar, salt and ¼ cup of water, mix well and cook medium flame for 2 minutes, while stirring occasionally.
-Add the green peas, potatoes and ¼ cup of water, mix gently and cook on medium flame for 2 minutes, while stirring occasionally.
-Serve hot garnished with coriander.",
+\nFor The Garnish\n
+\n• 1 tbsp chopped coriander (dhania)", 
+            "directions": "\n• Heat the oil in a deep non-stick pan, add the cumin seeds and sauté on a medium flame for a few seconds.\n
+\n• Add the onions and sauté on medium flame for 1 minute.\n
+\n• Add the ginger-green chilli paste, garlic paste and sauté on a medium flame for a few seconds.\n
+\n• Add the tomatoes, mix well and cook on medium flame for 8 minutes ,while stirring occasionally.\n
+\n• Add the turmeric powder, chilli powder, garam masala, sugar, salt and ¼ cup of water, mix well and cook medium flame for 2 minutes, while stirring occasionally.\n
+\n• Add the green peas, potatoes and ¼ cup of water, mix gently and cook on medium flame for 2 minutes, while stirring occasionally.\n
+\n• Serve hot garnished with coriander.",
                    "category":"appetizers"
 
         },
@@ -1310,32 +1310,32 @@ Serve hot garnished with coriander.",
             "id":40,
             "name":"Baked Bread Rolls",
             "time":"37 Minutes",
-            "ingredients":"10 fresh whole wheat bread slices
-melted butter for greasing and brushing
+            "ingredients":"\n• 10 fresh whole wheat bread slices
+\n• melted butter for greasing and brushing
 
-For The Stuffing
-2 tsp oil
-2 tbsp finely chopped spring onions with the greens
-2 tbsp finely chopped capsicum
-2 tbsp grated carrot
-1/4 cup finely chopped cabbage
-1/2 cup boiled whole wheat noodles , roughly chopped
-1/4 cup finely chopped paneer (cottage cheese)
-1 tsp soy sauce
-1 tsp schezuan sauce
-a pinch of sugar
-salt and freshly ground black pepper (kalimirch) to taste", 
-            "directions": "For the stuffing
-Heat the oil in a broad non-stick pan, add the spring onions, capsicum, carrots and cabbage and sauté on a medium flame for 1 to 2 minutes.
-Add the noodles, paneer, soya sauce, schezuan sauce, sugar, salt and pepper and mix well. Keep aside.
+\nFor The Stuffing\n
+\n• 2 tsp oil
+\n• 2 tbsp finely chopped spring onions with the greens
+\n• 2 tbsp finely chopped capsicum
+\n• 2 tbsp grated carrot
+\n• 1/4 cup finely chopped cabbage
+\n• 1/2 cup boiled whole wheat noodles , roughly chopped
+\n• 1/4 cup finely chopped paneer (cottage cheese)
+\n• 1 tsp soy sauce
+\n• 1 tsp schezuan sauce
+\n• a pinch of sugar
+\n• salt and freshly ground black pepper (kalimirch) to taste", 
+            "directions": "\nFor the stuffing:\n
+\n• Heat the oil in a broad non-stick pan, add the spring onions, capsicum, carrots and cabbage and sauté on a medium flame for 1 to 2 minutes.
+\n• Add the noodles, paneer, soya sauce, schezuan sauce, sugar, salt and pepper and mix well. Keep aside.
 
-How to proceed
-Remove the crust from the bread slices and roll each using a rolling pin.
-Place a rolled bread slice on a clean, dry surface and spread 1 tbsp of the prepared stuffing at one end of the bread slice and roll it up tightly.
-Apply some water at the edges and press to gently seal the stuffing.
-Repeat steps 2 and 3 to make 9 more rolls.
-Place the rolls on a greased baking tray, brush little butter evenly on top of the bread rolls and bake in a pre-heated oven at 200ºc (400ºf) for 15 minutes.
-Turn them over and bake again at 200ºc (400ºf)for 5 more minutes.
+\nHow to proceed:\n
+\n• Remove the crust from the bread slices and roll each using a rolling pin.\n
+\n• Place a rolled bread slice on a clean, dry surface and spread 1 tbsp of the prepared stuffing at one end of the bread slice and roll it up tightly.\n
+\n• Apply some water at the edges and press to gently seal the stuffing.\n
+\n• Rep eat steps 2 and 3 to make 9 more rolls.\n
+\n• Place the rolls on a greased baking tray, brush little butter evenly on top of the bread rolls and bake in a pre-heated oven at 200ºc (400ºf) for 15 minutes.\n
+\n• Turn them over and bake again at 200ºc (400ºf)for 5 more minutes.\n
 Serve immediately.
 ",
                    "category":"appetizers"
@@ -1348,19 +1348,19 @@ Serve immediately.
             "id":41,
             "name":"Baked Rasgullas",
             "time":"20 Minutes",
-            "ingredients":"8 Rasgullas , cut into halves
-1 cup low fat paneer (cottage cheese)
-1/4 cup low fat milk
-2 1/2 tbsp sugar substitute
-1 tsp cornflour dissolved in 2 tsp water
-a few strands saffron (kesar) dissloved in 1 tsp water
-a pinch cinnamon (dalchini) powder", 
-            "directions": "Soak the rasgullas in water for 1 minute, drain and discard the water.
-Repeat step 1 for 4 to 5 times till all the sugar syrup has been removed from the rasgullas and keep aside.
-Mix together the paneer, milk, sugar substitute, cornflour mixture, saffron and cardamom powder and blend to a smooth paste in a mixer. Keep aside.
-Arrange the rasgullas in a rectangular glass baking dish and pour the paneer mixture on top.
-Bake it in a pre-heated oven at 150º C (300º F) for 5 minutes.
-Serve hot.",
+            "ingredients":"\n• 8 Rasgullas , cut into halves
+\n• 1 cup low fat paneer (cottage cheese)
+\n• 1/4 cup low fat milk
+\n• 2 1/2 tbsp sugar substitute
+\n• 1 tsp cornflour dissolved in 2 tsp water
+\n• a few strands saffron (kesar) dissloved in 1 tsp water
+\n• a pinch cinnamon (dalchini) powder", 
+            "directions": "\n• Soak the rasgullas in water for 1 minute, drain and discard the water.\n
+\n• Repeat step 1 for 4 to 5 times till all the sugar syrup has been removed from the rasgullas and keep aside.\n
+\n• Mix together the paneer, milk, sugar substitute, cornflour mixture, saffron and cardamom powder and blend to a smooth paste in a mixer. Keep aside.\n
+\n• Arrange the rasgullas in a rectangular glass baking dish and pour the paneer mixture on top.\n
+\n• Bake it in a pre-heated oven at 150º C (300º F) for 5 minutes.
+\n• Serve hot.",
                    "category":"appetizers"
 
         },
@@ -1371,32 +1371,29 @@ Serve hot.",
             "id":42,
             "name":"Cabbage and Paneer Rolls",
             "time":"45 Minutes",
-            "ingredients":"28 fresh bread slices
+            "ingredients":"\n• 28 fresh bread slices
 
-To Be Mixed Into A Stuffing
-1 cup grated cabbage
-1/2 cup crumbled paneer (cottage cheese)
-1/4 cup finely chopped spring onions whites
-1/4 cup finely chopped spring onion greens
-1 tbsp hot and sweet sauce
-2 tsp finely chopped green chillies
-salt to taste
-2 tbsp finely chopped coriander (dhania)
+\n• To Be Mixed Into A Stuffing
+\n• 1 cup grated cabbage
+\n• 1/2 cup crumbled paneer (cottage cheese)
+\n•/4 cup finely chopped spring onions whites
+\n• 1/4 cup finely chopped spring onion greens
+\n• 1 tbsp hot and sweet sauce
+\n• 2 tsp finely chopped green chillies
+\n• salt to taste
+\n• 2 tbsp finely chopped coriander (dhania)
+\n• 2 tbsp plain flour (maida)
+\n• oil for deep-frying
 
-Other Ingredients
-2 tbsp plain flour (maida)
-oil for deep-frying
+\nFor Serving\n
+\n•hot and sweet sauce", 
+            "directions":"\n• Combine the plain flour and 2 tbsp of water in a small bowl, mix well and keep aside.\n
+\n• Remove the crust from all the bread slices and roll each slice with help of a rolling pin.\n
+\n• Put approx. 2 tsp of the stuffing on one side of the bread slice and roll it up tightly.\n
+\n• Apply some plain-flour water mixture at the edges sides, press to seal it.\n
+\n• Repeat steps 3 and 4 to make 27 more bread rolls.\n
 
-For Serving
-hot and sweet sauce", 
-            "directions":"Combine the plain flour and 2 tbsp of water in a small bowl, mix well and keep aside.
-Remove the crust from all the bread slices and roll each slice with help of a rolling pin.
-Put approx. 2 tsp of the stuffing on one side of the bread slice and roll it up tightly.
-Apply some plain-flour water mixture at the edges sides, press to seal it.
-Repeat steps 3 and 4 to make 27 more bread rolls.
-
-Heat the oil in a deep non- stick pan and deep-fry, a few rolls at a time on a high flame, till they turn golden brown in colour from all the sides. Drain on an absorbent paper.
-
+\n• Heat the oil in a deep non- stick pan and deep-fry, a few rolls at a time on a high flame, till they turn golden brown in colour from all the sides. Drain on an absorbent paper.\n
 Serve immediately with hot and sweet sauce.
 ",
                    "category":"appetizers"
@@ -1409,19 +1406,19 @@ Serve immediately with hot and sweet sauce.
             "id":43,
             "name":"Chick Pea and Soya Tikkis",
             "time":"40 Minutes",
-            "ingredients":"1 1/2 cups soaked and boiled kabuli chana (white chick peas)
-1/2 cup soya granules
-1/4 cup chopped mint leaves (phudina)
-1 1/2 tsp ginger-green chilli paste
-1 tsp garlic (lehsun) paste
-salt to taste
-1 1/2 tsp oil for greasing and cooking", 
-            "directions": "Soak the soya granules in enough hot water for 10 to 15 minutes. Drain and squeeze out all the water.
-Combine the soya granules, kabuli chana and mint leaves and blend in a mixer to a coarse mixture without using water.
-Transfer the mixture into a bowl, add the ginger-green chilli paste, garlic paste and salt and mix well.
-Divide the mixture into 10 equal portions and shape each portion into 50 mm. flat, round and thin tikkis.
-Heat a non-stick tava (griddle), grease it using ¼ tsp of oil and cook the tikkis, a few at a time, using ? tsp of oil till they turn golden brown in colour from both the sides.
-Serve immediately.",
+            "ingredients":"\n• 1 1/2 cups soaked and boiled kabuli chana (white chick peas)
+\n• 1/2 cup soya granules
+\n• 1/4 cup chopped mint leaves (phudina)
+\n• 1 1/2 tsp ginger-green chilli paste
+\n• 1 tsp garlic (lehsun) paste
+\n• salt to taste
+\n• 1 1/2 tsp oil for greasing and cooking", 
+            "directions": "\n• Soak the soya granules in enough hot water for 10 to 15 minutes. Drain and squeeze out all the water.\n
+\n• Combine the soya granules, kabuli chana and mint leaves and blend in a mixer to a coarse mixture without using water.\n
+\n• Transfer the mixture into a bowl, add the ginger-green chilli paste, garlic paste and salt and mix well.\n
+\n• Divide the mixture into 10 equal portions and shape each portion into 50 mm. flat, round and thin tikkis.\n
+\n• Heat a non-stick tava (griddle), grease it using ¼ tsp of oil and cook the tikkis, a few at a time, using ? tsp of oil till they turn golden brown in colour from both the sides.\n
+\n• Serve immediately.",
                    "category":"appetizers"
 
         },
@@ -1432,23 +1429,23 @@ Serve immediately.",
             "id":44,
             "name":"Corn Seekh Kebab",
             "time":"30 Minutes",
-            "ingredients":"1/2 cup boiled and mashed potatoes
-1/4 cup grated sweet corn (makai ke dane)
-2 tbsp finely chopped spring onions whites
-2 tsp finely chopped green chillies
-1 tbsp cornflour
-salt to taste
-1/2 tsp garam masala
-2 tsp ghee
-2 tsp melted butter with 1 teaspoon chilli powder for brushing
-phudina chutney and lemon wedges for serving", 
-            "directions": "Combine all the ingredients, except the ghee, in a bowl and mix well.
-Heat the ghee in a kadhai, add the prepared mixture and cook for 2 to 3 minutes.
-Allow the mixture to cool and divide it into 4 equal portions.
-Using a thick seekh (metal skewer), press each portion of the mixture on it with your fingers to make a 100 mm.long kebab.
-Brush each kebab with ½ teaspoon of butter.
-Cook the kebabs (approx. 3 to 4 minutes) over a charcoal or electric barbeque till they are evenly browned on all sides.
-Cut each kebab into 3 pieces and serve hot with phudina chutney and lemon wedges.",
+            "ingredients":"\n• 1/2 cup boiled and mashed potatoes
+\n• 1/4 cup grated sweet corn (makai ke dane)
+\n• 2 tbsp finely chopped spring onions whites
+\n• 2 tsp finely chopped green chillies
+\n• 1 tbsp cornflour
+\n• salt to taste
+\n• 1/2 tsp garam masala
+\n• 2 tsp ghee
+\n• 2 tsp melted butter with 1 teaspoon chilli powder for brushing
+\n• phudina chutney and lemon wedges for serving", 
+            "directions": "\n• Combine all the ingredients, except the ghee, in a bowl and mix well.
+\n• Heat the ghee in a kadhai, add the prepared mixture and cook for 2 to 3 minutes.\n
+\n• Allow the mixture to cool and divide it into 4 equal portions.\n
+\n• Using a thick seekh (metal skewer), press each portion of the mixture on it with your fingers to make a 100 mm.long kebab.\n
+\n• Brush each kebab with ½ teaspoon of butter.\n
+\n• Cook the kebabs (approx. 3 to 4 minutes) over a charcoal or electric barbeque till they are evenly browned on all sides.\n
+\n• Cut each kebab into 3 pieces and serve hot with phudina chutney and lemon wedges.",
                    "category":"appetizers"
 
         },
@@ -1459,42 +1456,42 @@ Cut each kebab into 3 pieces and serve hot with phudina chutney and lemon wedges
             "id":45,
             "name":"Dum Aloo",
             "time":"45 Minutes",
-            "ingredients":"16 to 18 baby potatoes , boiled , peeled and deep-fried
-4 cups roughly chopped tomatoes
-2 tbsp oil
-4 cloves (laung / lavang)
-2 cinnamon (dalchini) sticks
-2 cardamoms
-salt to taste
-1/2 tsp sugar
-2 tbsp fresh cream
-2 tbsp finely chopped coriander (dhania)
+            "ingredients":"\n• 16 to 18 baby potatoes , boiled , peeled and deep-fried
+\n• 4 cups roughly chopped tomatoes
+\n• 2 tbsp oil
+\n• 4 cloves (laung / lavang)
+\n• 2 cinnamon (dalchini) sticks
+\n• 2 cardamoms
+\n• salt to taste
+\n• 1 /2 tsp sugar
+\n• 2 tbsp fresh cream
+\n• 2 tbsp finely chopped coriander (dhania)
 
-To Be Ground Into A Smooth Onion Paste
-2 cups roughly chopped onions
-4 green chillies , roughly chopped
-10 garlic (lehsun) cloves
-1/4 cup broken cashewnuts (kaju)
-2 tsp fennel seeds (saunf)
-1/2 tsp turmeric powder (haldi)
-6 dry whole kashmiri red chillies , broken into pieces
-1 tsp cumin seeds (jeera)
+\nTo Be Ground Into A Smooth Onion Paste\n
+ \n• 2 cups roughly chopped onions
+\n• 4 green chillies , roughly chopped
+\n• 10 garlic (lehsun) cloves
+\n• 1/4 cup broken cashewnuts (kaju)
+\n• 2 tsp fennel seeds (saunf)
+\n• 1/2 tsp turmeric powder (haldi)
+\n• 6 dry whole kashmiri red chillies , broken into pieces
+\n• 1 tsp cumin seeds (jeera)
 
-For The Garnish
-1 tbsp finely chopped coriander (dhania)
+\nFor The Garnish\n
+\n• 1 tbsp finely chopped coriander (dhania)
 
-For Serving
-naan
-parathas", 
-            "directions": "Combine the tomatoes and 3 cups of water in a kadhai, mix well and cook on a medium flame for 12 to 15 minutes or till they turn soft. Keep aside to cool.
-Blend in a mixer to a smooth purée. Keep aside.
-Heat the oil in a kadhai, add the cloves, cinnamon and cardamom and sauté on a medium flame for a few seconds.
-Add the prepared onion paste and sauté on a medium flame for 1 to 2 minutes.
-Add the prepared tomato purée, mix well and cook on a medium flame for 2 to 3 minutes, while stirring continuously.
-Add the salt, sugar and fresh cream, mix well and cook on a medium flame for another 1 to 2 minutes.
-Add the coriander and cook on a medium flame for 1 more minute.
-Add the fried potatoes and cook on a medium flame for 1 to 2 minutes.
-Garnish with coriander and serve hot with naan or parathas.",
+\nFor Serving\n
+\n• naan
+\n• parathas", 
+            "directions": "\n• Combine the tomatoes and 3 cups of water in a kadhai, mix well and cook on a medium flame for 12 to 15 minutes or till they turn soft. Keep aside to cool.\n
+\n• Blend in a mixer to a smooth purée. Keep aside.\n
+\n• Heat the oil in a kadhai, add the cloves, cinnamon and cardamom and sauté on a medium flame for a few seconds.\n
+\n• Add the prepared onion paste and sauté on a medium flame for 1 to 2 minutes.\n
+\n• Add the prepared tomato purée, mix well and cook on a medium flame for 2 to 3 minutes, while stirring continuously.\n
+\n• Add the salt, sugar and fresh cream, mix well and cook on a medium flame for another 1 to 2 minutes.\n
+\n• Add the coriander and cook on a medium flame for 1 more minute.\n
+\n• Add the fried potatoes and cook on a medium flame for 1 to 2 minutes.\n
+\n• Garnish with coriander and serve hot with naan or parathas.",
                    "category":"appetizers"
 
         },
@@ -1505,25 +1502,23 @@ Garnish with coriander and serve hot with naan or parathas.",
             "id":46,
             "name":"Faraali Pahadi Tikka",
             "time":"45 Minutes",
-            "ingredients":"To Be Ground To A Smooth Green Marinade
-1/2 cup fresh hung curds (chakka dahi)
-1 1/2 cups chopped mint leaves (phudina) leaves
-1 cup chopped coriander (dhania)
-2 tsp cumin seeds (jeera)
-2 tbsp chopped green chillies
-2 tsp lemon juice
-rock salt (sendha namak) to taste
-
-Other Ingredients
-2 cups paneer (cottage cheese) cut into 25 mm cubes
-1 cup boiled and peeled baby potatoes , cut into halves
-1 cup sweet potato (shakarkand) peeled , cut into 25 mm slices and parboiled
-1 cup purple yam (kand) , peeled and cut into 25 mm cubes and parboiled
-1 tbsp oil", 
-            "directions": "Thread one piece each of the paneer, purple yam, sweet potato and baby potato halves onto a toothpick. Repeat with the remaining ingredients to make more tikkas.
-Apply the green marinade evenly on the paneer and the vegetables and keep aside for 15 to 20 minutes.
-Heat a non-stick tava (griddle) and cook the tikkas on a medium flame, using oil, till the paneer and vegetables are light brown in colour from all sides.
-Serve immediately.",
+            "ingredients":"\n• To Be Ground To A Smooth Green Marinade
+\n• 1/2 cup fresh hung curds (chakka dahi)
+\n• 1 1/2 cups chopped mint leaves (phudina) leaves
+\n• 1 cup chopped coriander (dhania)
+\n• 2 tsp cumin seeds (jeera)
+\n• 2 tbsp chopped green chillies
+\n• 2 tsp lemon juice
+\n• rock salt (sendha namak) to taste
+\n• 2 cups paneer (cottage cheese) cut into 25 mm cubes
+\n• 1 cup boiled and peeled baby potatoes , cut into halves
+\n• 1 cup sweet potato (shakarkand) peeled , cut into 25 mm slices and parboiled
+\n•  1 cup purple yam (kand) , peeled and cut into 25 mm cubes and parboiled
+\n• 1 tbsp oil", 
+            "directions": "\n• Thread one piece each of the paneer, purple yam, sweet potato and baby potato halves onto a toothpick. Repeat with the remaining ingredients to make more tikkas.\n
+\n• Apply the green marinade evenly on the paneer and the vegetables and keep aside for 15 to 20 minutes.\n
+\n• Heat a non-stick tava (griddle) and cook the tikkas on a medium flame, using oil, till the paneer and vegetables are light brown in colour from all sides.\n
+\n• Serve immediately.",
                    "category":"appetizers"
 
         },
@@ -1534,19 +1529,19 @@ Serve immediately.",
             "id":47,
             "name":"Grilled Hot N Sweet Paneer",
             "time":"25 Minutes",
-            "ingredients":"1 cup low fat paneer (cottage cheese) cubes
-4 spring onions with greens , finely chopped
-2 tbsp honey
-1 tbsp chilli sauce
-1 tsp lemon juice
-1/4 tsp lemon rind
-3 cloves (laung / lavang) grated garlic (lehsun)
-1 tbsp chopped coriander (dhania)
-2 tsp oil
-salt to taste", 
-            "directions": "Combine all the ingredients in a bowl and mix well. Allow marinating for at least 15 minutes.
-Arrange the paneer cubes neatly onto 4 wooden skewers and grill them over a charcoal or electric barbecue till they are lightly browned on all sides. You can also cook them on a non-stick pan.
-Serve hot.",
+            "ingredients":"\n• 1 cup low fat paneer (cottage cheese) cubes
+\n• 4 spring onions with greens , finely chopped
+\n• 2 tbsp honey
+\n• 1 t bsp chilli sauce
+\n• 1 tsp lemon juice
+\n• 1/4 tsp lemon rind
+\n• 3 cloves (laung / lavang) grated garlic (lehsun)
+\n• 1 tbsp chopped coriander (dhania)
+\n• 2 tsp oil
+\n• salt to taste", 
+            "directions": "\n• Combine all the ingredients in a bowl and mix well. Allow marinating for at least 15 minutes.\n
+\n• Arrange the paneer cubes neatly onto 4 wooden skewers and grill them over a charcoal or electric barbecue till they are lightly browned on all sides. You can also cook them on a non-stick pan.\n
+\n• Serve hot.",
                    "category":"appetizers"
 
         },
@@ -1557,46 +1552,46 @@ Serve hot.",
             "id":48,
             "name":"Katori Chaat",
             "time":"55 Minutes",
-            "ingredients":"For the katoris
-1/2 cup plain flour (maida)
-1/4 cup butter, softened
-1/4 tsp salt
+            "ingredients":"\n• For the katoris
+\n• 1/2 cup plain flour (maida)
+\n• 1/4 cup butter, softened
+\n• 1/4 tsp salt
 
-For the filling 
-1 cup mixed sprouts (boiled)
-1/2 tsp cumin seeds (jeera)
-a pinch of asafoetida (hing)
-2 tsp chilli powder
-2 tsp coriander-cumin seeds (dhania-jeera) powder
-1/4 tsp turmeric powder (haldi)
-1 tsp dried mango powder (amchur)
-1 tsp chole masala (chana masala)
-2 tbsp oil
-salt to taste
+\nFor the filling\n
+\n• 1 cup mixed sprouts (boiled)
+\n• 1/2 tsp cumin seeds (jeera)
+\n• a pinch of asafoetida (hing)
+\n• 2 tsp chilli powder
+\n• 2 tsp coriander-cumin seeds (dhania-jeera) powder
+\n• 1/4 tsp turmeric powder (haldi)
+\n• 1 tsp dried mango powder (amchur)
+\n• 1 tsp chole masala (chana masala)
+\n• 2 tbsp oil
+\n• salt to taste
 
-For serving 
-beaten curds (dahi)
-Khajur Imli ki Chutney
-green chutney
-Sev
-Chaat Masala", 
-            "directions": "For the katoris
-Combine the flour, butter and salt and make a stiff dough using a little water. Knead very well.
-Divide the dough into 2 equal portions.
-Roll out each dough portion into a sheet of 6 mm. thickness.
-Cut rounds of pastry using a large 50 mm. diameter cookie cutter and press into tart moulds.
-Prick all over with a fork.
-Bake in a hot oven at 230°C (450°F) for 10 to 15 minutes.
-Cool the tart cases.
+\nFor serving\n 
+\n• beaten curds (dahi)
+\n• Khajur Imli ki Chutney
+\n• green chutney
+\n• Sev
+\n• Chaat Masala", 
+            "directions": "\nFor the katoris\n
+\n• Combine the flour, butter and salt and make a stiff dough using a little water. Knead very well.\n
+\n• Divide the dough into 2 equal portions.\n
+\n• Roll out each dough portion into a sheet of 6 mm. thickness.\n
+\n• Cut rounds of pastry using a large 50 mm. diameter cookie cutter and press into tart moulds.\n
+\n• Prick all over with a fork.\n
+\n• Bake in a hot oven at 230°C (450°F) for 10 to 15 minutes.\n
+\n• Cool the tart cases.\n
 
-For the filling 
-Heat the oil in a pan and add the cumin seeds. When they crackle, add the asafoetida.
-Add the sprouts, chilli powder, coriander-cumin seed powder, turmeric powder, amchur, chole masala, salt and 2 tablespoons of water and mix well. Cook on a slow flame for 4 to 5 minutes. Keep aside.
+\nFor the filling\n 
+\n• Heat the oil in a pan and add the cumin seeds. When they crackle, add the asafoetida.\n
+\n• Add the sprouts, chilli powder, coriander-cumin seed powder, turmeric powder, amchur, chole masala, salt and 2 tablespoons of water and mix well. Cook on a slow flame for 4 to 5 minutes. Keep aside.\n
 
-How to proceed
-Fill each tart with a portion of the filling.
-Top with curds, khajur imli ki chutney, green chutney, sev and chaat masala.
-Serve immediately.",
+\nHow to proceed\n
+\n•Fill each tart with a portion of the filling.\n
+\n• Top with curds, khajur imli ki chutney, green chutney, sev and chaat masala.\n
+\n• Serve immediately.",
                    "category":"appetizers"
 
         },
