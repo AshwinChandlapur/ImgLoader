@@ -1,7 +1,6 @@
 {
     "list": [
-
-       
+        
         {
             "image":[
                "http://www.manjulaskitchen.com/blog/wp-content/uploads/jalapeno_cheese_paratha-300x169.jpg"
@@ -1039,41 +1038,7 @@ For Serving
 \n• Serve immediately with fresh curds.",
             "category":"breakfast"
         },
-       
-        {
-            "image":[
-                "https://i.ytimg.com/vi/_MVX8hfqMwo/maxresdefault.jpg"
-            ],
-            "id":31,
-            "name":"Bisibelebath",
-            "time":"30 Minutes",
-            "ingredients":"  \n•  ¾ Cup Toor Dal
-   \n• ¾ Cup Raw Rice
-   \n• 5 Cups Water
-   \n• 1 Cup Hot Water
-            
-   \n• 2 Tablespoon Ghee
-   \n• ¼ teaspoon mustard seeds
-   \n• 2 Sprigs Curry Leaves
-   \n• 3 Tablespoon Tamarind Paste
-   \n• 1 Tablespoon Jaggery
-   \n• 2½ Tablespoon Bisi Bele Bath Powder
-   \n• 1½ Teaspoon Salt
-   \n• 1 Cup Water
-   \n• Ghee to serve", 
-            "directions": "
-
-        \n•Hot water is always preferred than room temperature water for making the dough. This will give you soft chapattis all the time.
-        \n•Do not pour all the water at a time. Pour in little by a little mixing.
-        \n•Adding oil to the dough will give a good texture.
-        \n•Knead the dough well for 2-3 minutes.
-        \n•After kneading the dough, spread a little oil all over and let it sit for 15-30 minutes covered.
-        \n•Roll out the dough evenly. Do not make it very thin, it won’t puff up well.
-        \n•The pan should be really hot while adding the chappathi. Then after flipping it reduce heat to medium and after last flip increase heat to high for chapati to put up well. There are two flips in total. Check the directions.
-        \n•After cooking the chapathis, it is best to eat them right away, or else just keep them closed in a thermal container.\n"
-        ,
-            "category":"appetizers"
-        },
+     
         {
             "image":[
                "http://www.manjulaskitchen.com/blog/wp-content/uploads/spicy_corn_chaat-300x169.jpg"
@@ -2549,17 +2514,6 @@ Just before serving, turn upside down on a big serving plate and serve immediate
 ",
           "category":"maincourse"
         },
-{
-            "image":[
-                ""
-            ],
-            "id":72,
-            "name":"Channa Oota",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-          "category":"maincourse"
-        },
          {
             "image":[
                 "http://www.manjulaskitchen.com/blog/wp-content/uploads/apple_coconut_barfi-300x169.jpg"
@@ -3723,19 +3677,6 @@ How to proceed
 ",
             "category":"snacks"
         },
-        {
-            "image":[
-                ""
-            ],
-            "id":117,
-            "name":"",
-            "time":"3",
-            "ingredients":"", 
-            "directions": "",
-            "category":"snacks"
-        },
-        
-        
         {
             "image":[
                 "http://www.manjulaskitchen.com/blog/wp-content/uploads/rava_kesari-300x169.jpg"
