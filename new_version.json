@@ -1593,19 +1593,7 @@ Serve immediately with hot and sweet sauce.
                    "category":"appetizers"
 
         },
-        {
-            "image":[
-               "http://curryindian.com/wp-content/uploads/2014/01/W_paneerButtermasala1.jpg"
-            ],
-            "id":50,
-            "name":"",
-            "time":"1",
-            "ingredients":"", 
-            "directions": "",
-                   "category":"appetizers"
-
-        },
-        
+      
         {
             "image":[
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh75zj2xW4oNww-kJrKlWt6Jig0LLpdkDA7_2MGBBOr2e7_HdT6g"         ],
