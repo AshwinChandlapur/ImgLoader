@@ -4242,13 +4242,28 @@ Serve hot garnished with almond and pistachio slivers.\n
     },
 {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "http://media3.sailusfood.com/wp-content/uploads/2016/04/kosambari.jpg"
             ],
             "id":140,
-            "name":"Ugadi Pachadi",
+            "name":"Kosambari",
             "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
+             "ingredients":"Moong dal - 1/2 cup, soaked in water for 1-2 hours
+  Cucumber - 1, medium size, peeled and chopped into small pieces
+  Fresh coconut - 3 tbsps, grated
+  Green chilis - 2, slit or finely chopped
+  Ginger - 1/2, finely grated
+  Coriander leaves - 1 tbsp, finely chopped
+  Lemon juice - 1 tsp (optional)
+  For Tempering:
+  Mustard seeds - 1/2 tsp
+  Curry leaves - 2 sprigs
+  Asafoetida - pinch
+  Oil - 1 tsp",
+             "directions":"Drain the soaked moong dal and place in a colander for a few minutes. Once the water is fully drained, place the moong dal in a large bowl.
+Add the chopped cucumber, grated coconut, slit green chilis and half of the coriander leaves and mix well. Set aside.
+Heat oil in a small pan. Once it turns hot, add the mustard seeds and allow to splutter. Add the asafoetida and curry leaves and saute for a few secs. Turn off the heat.
+Pour this seasoning over the moong dal and mix well. At the time of serving, sprinkle salt and lemon juice and mix well.
+Serve the kosamabari as a salad or as a meal by itself.",
               "category":"festive"
     },
 {
@@ -4272,7 +4287,7 @@ Serve hot garnished with almond and pistachio slivers.\n
              "ingredients":"",
              "directions":"",
               "category":"festive"
-    },
+    }
     
 
 
