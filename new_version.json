@@ -4398,13 +4398,33 @@ For the filling:
     },
     {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "http://cdn.awesomecuisine.com/wp-content/uploads/2009/09/chiroti.jpg"
             ],
-            "id":140,
-            "name":"Ugadi Pachadi",
-            "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
+            "id":146,
+            "name":"Chiroti",
+            "time":"1hour",
+             "ingredients":"\n• Maida – 3 cups
+\n• Chiroti Rava (Sooji) – 1 cup (if available or see note at the end)
+\n• Sugar – 1 1/2 cups, coarsely powdered
+\n• Raw Rice Flour – 1 cup
+\n• Ghee – 1 cup
+\n• Salt – a large pinch
+\n• Oil (or Vanaspati) as required",
+             "directions":"\n• Combine maida, rava, salt, 1/3 cup of ghee and little cold water in a bowl.\n
+\n• Mix well to a stiff dough.\n
+\n• Cover with a wet cloth and keep aside for 30 to 40 minutes.\n
+\n• Knead once again and make small balls of the dough.\n
+\n• Roll them out into small/medium chapatis.\n
+\n• To the remaining ghee, add rice flour and mix well.\n
+\n• Spread 1/2 tblsp of this ghee-rice flour mixture on the prepared chapatis.\n
+\n• Keep 4 to 5 of the chapatis one top of the other and roll them tightly, like a cylinder.\n
+\n• Cut them into 1 inch pieces.\n
+\n• Heat oil in a deep frying pan.\n
+\n• Deep fry the pieces until light golden brown.\n
+\n• Remove and drain excess oil.\n
+\n• Sprinkle sugar on top.\n
+\n• Serve.\n
+Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 cup of maida more",
               "category":"festive"
     },
     {
