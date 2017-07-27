@@ -4454,7 +4454,7 @@ Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 c
             "image":[
                 "http://cdn.awesomecuisine.com/wp-content/uploads/2009/06/manoharam.jpg"
             ],
-            "id":14,
+            "id":148,
             "name":"Manoharam",
             "time":"15 Minutes",
              "ingredients":"\n• Raw Rice – 4 cups
@@ -4462,10 +4462,7 @@ Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 c
 \n• Oil – 250 ml
 \n• Salt – 1/4 tsp or as per taste
 \n• Jaggery – 250 gms, powdered
-\n• Ghee – 1 tblsp
-
-Read more: http://www.awesomecuisine.com/recipes/1912/manoharam.html#ixzz4o33DWxOs 
-Follow us: @awesomecuisine on Twitter | awesomecuisine on Facebook",
+\n• Ghee – 1 tblsp",
              "directions":"\n• Combine the rice and dal together.\n
 \n• Grind them in a flour mill to a fine powder.\n
 \n• Sieve the flour and add salt.\n
@@ -4482,13 +4479,51 @@ Follow us: @awesomecuisine on Twitter | awesomecuisine on Facebook",
     },
     {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "http://cdn.awesomecuisine.com/wp-content/uploads/2011/05/labanga_latika.jpg"
             ],
-            "id":140,
-            "name":"Ugadi Pachadi",
-            "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
+            "id":149,
+            "name":"Lavang Latika",
+            "time":"45 Minutes",
+             "ingredients":"\n• Maida – 3 cups
+\n• Wheat Flour – 1 cup
+\n• Cloves – 25 to 30
+\n• Ghee – 3 tblsp
+\n• Sugar – 2 cups
+\n• Water – 1 cup
+\n• Lemon Juice – 1/2 tsp
+\n• Cloves – few
+\n• Salt as per taste
+\n• Oil for frying\n
+For the filling:
+\n• Unsweetened Khoya – 400 gms
+\n• Coconut Powder – 2 cups
+\n• Cardamom Powder – 1/2 tsp
+\n• Sugar – 1 cup, powdered
+\n• Cashew Nuts – 2 tblsp, powdered
+\n• Pistachios – few, shelled
+\n• Raisins – few",
+             "directions":"\n• Sieve the maida well.\n
+\n• Apply ghee to a plate.\n
+\n• Add salt, maida, wheat flour and little water.\n
+\n• Mix well and knead to a chapati dough consistency.\n
+\n• Cover and keep aside for 30 minutes.\n
+\n• Mix all the filling ingredients and keep aside.\n
+\n• Heat 1 cup of water over medium flame.\n
+\n• Add sugar and stir well until fully dissolved.\n
+\n• Bring to a boil and simmer until it reaches an one string consistency.\n
+\n• Add lemon juice and stir well.\n
+\n• Switch off the flame and keep warm.\n
+\n• Make small balls of the dough.\n
+\n• Roll them into small puris.\n
+\n• Add a little filling to the centre of the puri and fold well.\n
+\n• Fold them into a square and secure the edges with a clove on top.\n
+\n• Cover with a cloth and keep aside.\n
+\n• Heat oil for frying over medium flame.\n
+\n• Add the prepared latikas and fry until crispy and golden.\n
+\n• Remove and add to the sugar syrup.\n
+\n• Remove after a minute and keep them on a plate.\n
+\n• Allow it to cool.\n
+\n• Serve.",
               "category":"festive"
     },
     {
