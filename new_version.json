@@ -4289,6 +4289,28 @@ Serve hot garnished with almond and pistachio slivers.\n
     },
 {
             "image":[
+                "http://www.indobase.com/recipes/rec-images/rava-ladoo.jpg"
+            ],
+            "id":142,
+            "name":"Rava Ladoo",
+            "time":"20 Minutes",
+             "ingredients":"\n• 3 Cups Rava
+\n• 2 Cups Sugar
+\n• 1 Cup Dry coconut powder
+\n• 2 tbsp Cardamom powder
+\n• 4 tbsp Ghee",
+             "directions":"\n• Heat ghee and fry rava till it turns brown.\n
+\n• Mix coconut and elaichi powder and fry it for few more minutes.\n
+\n• Prepare sugar syrup.\n
+\n• Add rava mixture in sugar syrup.\n
+\n• Keep it for cooling.\n
+\n• Stir till the mixture turns thick.\n
+\n• Make ladoos of this mixture.\n
+\n• Rava Laddu is ready.",
+              "category":"festive"
+    },
+    {
+            "image":[
                 "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
             ],
             "id":140,
@@ -4297,7 +4319,51 @@ Serve hot garnished with almond and pistachio slivers.\n
              "ingredients":"",
              "directions":"",
               "category":"festive"
-    }
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
     
 
 
