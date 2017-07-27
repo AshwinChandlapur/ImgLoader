@@ -4357,13 +4357,43 @@ Serve hot garnished with almond and pistachio slivers.\n
     },
     {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="
             ],
-            "id":140,
-            "name":"Ugadi Pachadi",
-            "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
+            "id":145,
+            "name":"Karanji",
+            "time":"1hour",
+             "ingredients":"\n• Maida (Plain Flour) – 2 cups
+\n• Ghee – 1 tblsp
+\n• Salt as per taste
+\n• Warm Milk as required
+\n• Oil as required for frying\n
+
+For the filling:
+\n• Coconut – 2 cups, grated
+\n• Sugar – 2 cups, powdered
+\n• Nutmeg Powder – 1/4 tsp
+\n• Ginger Powder – 1/4 tsp
+\n• Cardamoms – 6 to 8
+\n• Ghee – little
+\n• Maida (Plain Flour) – 1 tblsp
+\n• Khus Khus (Poppy Seeds) – 1 tblsp
+\n• Mixed Dry Fruits – 1/4 cup, chopped",
+             "directions":"\n• Combine the maida, ghee and salt in a large bowl.\n
+\n• Add enough milk and mix well to a thick dough.\n
+\n• Keep aside.\n
+\n• Dry roast the coconut and remove.\n
+\n• Heat little ghee in a pan.\n
+\n• Fry the maida and poppy seeds for a minute.\n
+\n• Remove and mix all the filling ingredients.\n
+\n• Grind them together and keep aside.\n
+\n• Make small balls of the dough.\n
+\n• Roll them into small puris.\n
+\n• Place some of the filling inside and fold to form a half-moon shape.\n
+\n• Using some water or milk, seal the edges.\n
+\n• Heat oil in a deep frying pan over medium flame.\n
+\n• Fry the prepared karanjis until light golden brown.\n
+\n• Remove and drain excess oil.\n
+\n• Store in an airtight container.",
               "category":"festive"
     },
     {
