@@ -4357,7 +4357,7 @@ Serve hot garnished with almond and pistachio slivers.\n
     },
     {
             "image":[
-                "data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSro8CCJ228i0hdc7z8Bumh3PCo83i9qbJmeMa2F22W11U3IEB_dQ"
             ],
             "id":145,
             "name":"Karanji",
@@ -4438,10 +4438,60 @@ Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 c
              "directions":"",
               "category":"festive"
     },
-    
-
-
-
-
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+            ],
+            "id":140,
+            "name":"Ugadi Pachadi",
+            "time":"15 Minutes",
+             "ingredients":"",
+             "directions":"",
+              "category":"festive"
+    },
         ]
 }
