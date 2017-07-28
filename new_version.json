@@ -4404,7 +4404,7 @@ For the filling:
             "name":"Chiroti",
             "time":"1hour",
              "ingredients":"\n• Maida – 3 cups
-\n• Chiroti Rava (Sooji) – 1 cup (if available or see note at the end)
+\n• Chiroti Rava (Sooji) – 1 cup
 \n• Sugar – 1 1/2 cups, coarsely powdered
 \n• Raw Rice Flour – 1 cup
 \n• Ghee – 1 cup
@@ -4437,10 +4437,10 @@ Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 c
              "ingredients":"\n• Curd – 400 gms
 \n• Sugar – 250 gms
 \n• Cardamom Powder – 1/4 tsp
-\n• Saffron Strands – few, mixed with 2 tsp warm milk
+\n• Saffron Strands–few, mixed with 2 tsp warm milk
 \n• Almonds – few, chopped, to garnish
 \n• Pistachios – few, chopped, to ganrish",
-             "directions":"\n•Hang the curd in a muslin cloth for couple of hours or until all liquid has drained.\n
+             "directions":"\n• Hang the curd in a muslin cloth for couple of hours or until all liquid has drained.\n
 \n• Mix the curd and sugar in a large bowl.\n
 \n• Blend well until smooth.\n
 \n• Add cardamom powder and saffron strands.\n
@@ -4528,13 +4528,47 @@ For the filling:
     },
     {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "http://media3.sailusfood.com/wp-content/uploads/2016/04/neer-mor.jpg"
             ],
-            "id":140,
-            "name":"Ugadi Pachadi",
+            "id":150,
+            "name":"South Indian Buttermilk",
             "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
+             "ingredients":"\n• Fresh curd - 1 cup, thick and beaten till smooth
+  \n• Chilled water - 3 to 4 cups
+  \n• Asafoetida - very small pinch (optional)
+  \n• Green chilies - 3, each slit into two
+  \n• Ginger - 1 tsp, finely grated
+  \n• Coriander leaves - 1 tbsp, finely chopped
+  \n• Curry leaves - 1 sprig
+  \n• Lemon juice - 1 tsp (optional)
+  \n• Salt to taste",
+             "directions":"\n• In a large bowl, add the fresh, well set thick curd or yogurt and beat with a spoon or whisk till smooth with no lumps. Beat for at least 2 mins.\n
+\n• Add 3 to 4 cups chilled water and use a churner to churn till frothy. If you don't have a churner, use a hand blender, whisk or spoon.\n
+\n• Add asafoetida, green chilies, ginger, coriander leaves, and curry leaves and mix well.\n
+\n• At the time of serving, discard the slit green chilies and pour the neer mor into serving glasses and serve.",
+              "category":"festive"
+    },
+    {
+            "image":[
+                "http://media2.sailusfood.com/wp-content/uploads/2011/09/sweet-pongal-recipe.jpg"
+            ],
+            "id":151,
+            "name":"Sweet Pongal",
+            "time":"15 Minutes",
+             "ingredients":"\n• 1 cup raw rice washed and drained
+\n• 1/2 cup yellow moong dal/pesara pappu
+\n• 1 1/2 cup grated jaggery
+\n• 4 1/2 cups water
+\n• 1/4 tsp salt
+\n• 1/2 tsp cardamom pwd
+\n• 3 tbsps ghee
+\n• 12-15 cashewnuts
+\n• 2 tbsps raisins/kishmish",
+             "directions":"\n• 1 Heat a pan, add 1/2 tbsp of ghee and toast the cashewnuts and raisins till golden brown. Remove from pan, keep aside. In the same pan, add the moong dal and roast till its lightly red. Remove.\n
+ \n• Heat a vessel, add grated jaggery. Let the jaggery melt over slow flame till its sticky on touch. Don’t over cook it, it should basically completely melt. Strain the jaggery and cool.\n
+\n• In a separate vessel, bring water to a boil. Lower heat, add the rice and washed moong dal to the water. Cook till the rice is soft and the mixture turns thick.\n
+\n• Reduce flame to low, add the jaggery syrup to the cooked rice and dal mixture and mix. Add the cardamom pwd, salt and toasted cashews and raisins. Let it cook for 2-3 mts and turn off flame.\n
+\n• Serve warm or bring to room temperature and refrigerate until chilled. It tastes good both warm and chilled.",
               "category":"festive"
     },
     {
@@ -4547,17 +4581,6 @@ For the filling:
              "ingredients":"",
              "directions":"",
               "category":"festive"
-    },
-    {
-            "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
-            ],
-            "id":140,
-            "name":"Ugadi Pachadi",
-            "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
-              "category":"festive"
-    },
+    }
         ]
 }
