@@ -4573,14 +4573,31 @@ Note: If chiroti rava is not available, you can use plain rava or add 1/2 to 1 c
     },
     {
             "image":[
-                "http://media3.sailusfood.com/wp-content/uploads/2017/03/happy-ugadi.jpg"
+                "http://swatisani.net/kitchen/wp-content/uploads/2014/12/1024px-Spicy_egg_bhurji_@_the_eggfactory.jpg"
             ],
-            "id":140,
-            "name":"Ugadi Pachadi",
-            "time":"15 Minutes",
-             "ingredients":"",
-             "directions":"",
-              "category":"festive"
+            "id":200,
+            "name":"Egg Burji",
+            "time":"20 Minutes",
+             "ingredients":"\n3 eggs
+\n•1 tbsp oil
+\n•2 medium size onions finely chopped(finely chopped small cubes)
+\n•1 tsp finely chopped green chillies
+\n•1 medium size tomato finely chopped(finely chopped small cubes)
+\n•salt - to taste
+\n•¼ tsp red chilli powder
+\n•¼ tsp turmeric powder
+\n•1 tbsp finely chopped coriander leaves",
+             "directions":"\n•Firstly, take an iron skillet or a wok, add oil and heat it.
+\n•Add finely chopped onions into it, add finely chopped green chillies, mix and saute for few minutes.
+\n•Add salt and keep stirring the onions for them to get soft and very slight golden color.
+\n•Add finely chopped tomatoes, red chilli powder, mix, saute and cook for few minutes.
+\n•In a separate bowl, beat the eggs, add salt according to taste, red chilli powder, turmeric powder and beat the egg mixture well.
+\n•Add the beaten eggs to the cooking onion tomato mixture.
+\n•Mix the egg mixture finely with the onion tomato mixture.
+\n•Cook for about 3-4 minutes on sim flame or until eggs are done.
+\n•Serve hot with sandwich bread or roti filling.",
+              "category":"snacks"
     }
+        
         ]
 }
