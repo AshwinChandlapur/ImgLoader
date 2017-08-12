@@ -3,7 +3,7 @@
         
         {
             "image":[
-               "http://www.manjulaskitchen.com/blog/wp-content/uploads/jalapeno_cheese_paratha-300x169.jpg"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg"
             ],
             "id":2,
             "name":"Cheese Paratha",
@@ -32,7 +32,7 @@
         },
         {
             "image":[
-               "http://www.manjulaskitchen.com/blog/wp-content/uploads/mooli_ka_paratha-300x168.jpg"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/mooli_ka_paratha-300x168-min.jpg"
             ],
             "id":3,
             "name":"Mooli Ka Paratha",
@@ -77,7 +77,7 @@ Enjoy!",
         },
         {
             "image":[
-               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/portfolio/panner-masala-dosa.jpg"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/panner-masala-dosa-min.jpg"
             ],
             "id":4,
             "name":"Paneer Dosa",
@@ -105,7 +105,7 @@ Enjoy!",
         },
         {
             "image":[
-               "http://2.bp.blogspot.com/-lWYhppoHC7k/VqiUlQOUVbI/AAAAAAAAia8/IQ-8YUUKQvE/s640/IMG_8690.JPG"
+               "https://github.com/AshwinChandlapur/ImgLoader/blob/gh-pages/IMG_8690-min.JPG"
             ],
             "id":5,
             "name":"Ragi Adai",
@@ -131,7 +131,7 @@ Enjoy!",
         },
         {
             "image":[
-               "http://www.manjulaskitchen.com/blog/wp-content/uploads/aloo_puri-300x168.jpg"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/aloo_puri-300x168-min.jpg"
             ],
             "id":6,
             "name":"Aloo Puri",
@@ -180,7 +180,7 @@ Enjoy!",
         },
         {
             "image":[
-               "http://www.manjulaskitchen.com/blog/wp-content/uploads/paratha_samosa-300x168.jpg"
+               "https://github.com/AshwinChandlapur/ImgLoader/blob/gh-pages/paratha_samosa-300x168-min.jpg"
             ],
             "id":7,
             "name":"Oat Dosa",
@@ -213,7 +213,7 @@ Enjoy!",
         },
          {
             "image":[
-               "http://www.manjulaskitchen.com/blog/wp-content/uploads/eggless_omelet-300x168.jpg"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/eggless_omelet-300x168-min.jpg"
             ],
             "id":8,
             "name":"Eggless Omelet",
@@ -266,7 +266,7 @@ Enjoy!",
         },
         {
             "image":[
-               "http://3.bp.blogspot.com/-qMc_SCwWmsU/UOVrefDf4WI/AAAAAAAAGjA/jPgp_Ed4rQM/s1600/onion-uthappam.jpg" 
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/onion-uthappam-min.jpg" 
             ],
             "id":10,
             "name":"Onion Uthappam",
@@ -289,7 +289,7 @@ Enjoy!",
         },
          {
             "image":[
-                 "http://3.bp.blogspot.com/_nP_gc23FJIk/Ss2Ky8FARTI/AAAAAAAAAqw/u2HfPlLegL4/s400/moongdal_dosa.jpg"
+                 "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/moongdal_dosa-min.jpg"
             ],
             "id":11,
             "name":"Moong dal dosa",
@@ -316,7 +316,7 @@ Drizzle a tsp of oil around the dosa.\n
         },
          {
             "image":[
-               "https://purewows3.imgix.net/images/articles/2014_01/Fritatta549x305.jpg?auto=format,compress&cs=strip"
+               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/Fritatta549x305-min.jpg"
             ],
             "id":12,
             "name":"An onion and arugula frittata",
