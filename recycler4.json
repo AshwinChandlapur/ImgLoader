@@ -4,17 +4,17 @@
   {
 		"name": "Captain America",
 		"realname": "Steve Rogers",
-		"image": "Avengers",
+		"image": "Avengers"
 		},
   {
   "name": "Spider Man",
   "realname": "Steve Rogers",
-  "image": "Avengers",
+  "image": "Avengers"
     },
   {
   "name": "IRON Man",
   "realname": "Steve Rogers",
-  "image": "Avengers",
+  "image": "Avengers"
     }
 	]
 }
