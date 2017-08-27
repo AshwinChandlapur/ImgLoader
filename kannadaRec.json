@@ -1113,7 +1113,8 @@
     "ingredients": "\n\n*ಆಲೂಗೆಡ್ಡೆ - ಮೂರು (ಹೆಚ್ಚಿಟ್ಟದ್ದು)\n\n*ಕಡ್ಲೆಹಿಟ್ಟು - ಒ೦ದೂವರೆ ಕಪ್\n\n*ನೀರು - ಒ೦ದು ಕಪ್\n\n*ಮೆಣಸಿನ ಪುಡಿ - ಒ೦ದು ಟೀ ಚಮಚದಷ್ಟು\n\n*ಗರ೦ ಮಸಾಲಾ ಪುಡಿ - ಅರ್ಧ ಚಮಚದಷ್ಟು\n\n*ಹಿ೦ಗು - ಒ೦ದು ಚಿಟಿಕೆಯಷ್ಟು\n\n*ಅಡುಗೆ ಸೋಡಾ - ಎರಡು ಚಿಟಿಕೆಯಷ್ಟು\n\n*ಉಪ್ಪು - ರುಚಿಗೆ ತಕ್ಕಷ್ಟು\n\n*ಕರಿಯುವುದಕ್ಕಾಗಿ ಎಣ್ಣೆ"
   },
   {
-    "id": 286,http://ksmartstatic.sify.com/cmf-1.0.0/appflow/bawarchi.com/Image/oeto82icdihbh_bigger.jpg"],
+    "id": 286,
+    "image":["http://ksmartstatic.sify.com/cmf-1.0.0/appflow/bawarchi.com/Image/oeto82icdihbh_bigger.jpg"],
     "inenglish": "Bombay Toast",
     "category": "snacks",
     "time": "10 Minutes",
