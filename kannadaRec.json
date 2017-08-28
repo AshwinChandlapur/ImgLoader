@@ -1203,18 +1203,8 @@
     "ingredients": "\n\n*ದೊಡ್ಡ ಹಸಿ ಮೆಣಸುಗಳು - 10\n\n*ಕಡಲೆ ಹುಡಿ - 1 ಕಪ್\n\n*ಕೆಂಪು ಮೆಣಸಿನ ಹುಡಿ - 1 ಚಮಚ \n\n*ಚಾಟ್ ಮಸಾಲಾ - 3 ಚಮಚ\n\n*ಜೀರಿಗೆ - 1 ಚಮಚ\n\n*ಉಪ್ಪು - ರುಚಿಗೆ ತಕ್ಕಷ್ಟು\n\n*ಅರಶಿನ ಹುಡಿ - 1/2 ಚಮಚ\n\n*ಎಣ್ಣೆ - ಚೆನ್ನಾಗಿ ಕರಿಯಲು"
   },
   {
-    "id": 298,
-    "image": [""],
-    "inenglish": "Jaal Murrai",
-    "category": "snacks",
-    "time": "",
-    "directions": "\n\n1. ನೆನೆಸಿರುವ ಉದ್ದಿನ ಬೇಳೆದಿಂದ ನೀರನ್ನು ಬಸಿಯಿರಿ.\n\n2. ಮಿಶ್ರಣ ಮಾಡುವ ಪಾತ್ರೆಯಲ್ಲಿ ಎಲ್ಲಾ ಸಾಮಾಗ್ರಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ\n\n3. ಕೈ ಅಥವಾ ಸೌಟ್‌ನಿಂದ ಎಲ್ಲಾ ಸಾಮಾಗ್ರಿಗಳನ್ನು ಬೆರೆಸಿ.\n\n4. ತೆಂಗಿನ ಕಾಯಿ ಚೂರಿನಿಂದ ಅಲಂಕರಿಸಿ.",
-    "name": "ಜಾಲ್ ಮುರೈ",
-    "ingredients": "\n\n*ಅವಲಕ್ಕಿ - 2 ಕಪ್‌ಗಳು\n\n*ಆಲೂಗಡ್ಡೆ - 2 (ಬೇಯಿಸಿದ್ದು ಮತ್ತು ಕತ್ತರಿಸಿದ್ದು)\n\n*ಟೊಮೇಟೊ - 1 (ಕತ್ತರಿಸಿದ್ದು)\n\n*ಹಸಿಮೆಣಸು - 4 (ಕೊನೆಯದಾಗಿ ಕತ್ತರಿಸಿದ್ದು)\n\n*ಸೇವ್ - 1/2 ಕಪ್\n\n*ಉದ್ದಿನ ಬೇಳೆ - 1/2 ಕಪ್ (ನೆನೆಸಿದ್ದು)\n\n*ಉಪ್ಪು - ರುಚಿಗೆ ತಕ್ಕಷ್ಟು\n\n*ಲಿಂಬೆ ರಸ - 1 ಸ್ಪೂನ್\n\n*ಉಪ್ಪಿನಕಾಯಿ ಮಸಾಲೆ - 1 ಸ್ಪೂನ್\n\n*ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು - 2 ಚಮಚ (ಕತ್ತರಿಸಿದ್ದು)\n\n*ಸಾಸಿವೆ ಎಣ್ಣೆ - 1 ಚಮಚ\n\nತೆಂಗಿನ ಕಾಯಿ ಚೂರುಗಳು - ಅಲಂಕಾರಕ್ಕಾಗಿ"
-  },
-  {
     "id": 299,
-    "image": [""],
+    "image": ["https://i.ytimg.com/vi/8-QGa7qw3Iw/maxresdefault.jpg"],
     "inenglish": "Noodles Cutlet",
     "category": "snacks",
     "time": "",
@@ -1224,7 +1214,7 @@
   },
   {
     "id": 301,
-    "image": [""],
+    "image": ["https://qph.ec.quoracdn.net/main-qimg-14f6bc4a3b89ae33a33107a9b56b38e7"],
     "inenglish": "Pani Puri",
     "category": "snacks",
     "time": "",
@@ -1234,7 +1224,7 @@
   },
   {
     "id": 302,
-    "image": [""],
+    "image": ["https://i0.wp.com/files.hungryforever.com/wp-content/uploads/2015/11/09172729/alookurkure1951-e1447070260205.jpg"],
     "inenglish": "Aloo Kurkure",
     "category": "snacks",
     "time": "",
@@ -1244,7 +1234,7 @@
   },
   {
     "id": 303,
-    "image": [""],
+    "image": ["http://www.arusuvai.com/sites/default/files/howto/2015/10/Mangalore-Buns.jpg"],
     "inenglish": "Mangalooru Buns",
     "category": "snacks",
     "time": "",
@@ -1254,7 +1244,7 @@
   },
   {
     "id": 304,
-    "image": [""],
+    "image": ["https://i.ytimg.com/vi/AZ_txrJcvP0/maxresdefault.jpg"],
     "inenglish": "Ambode",
     "category": "snacks",
     "time": "",
@@ -1264,17 +1254,17 @@
   },
   {
     "id": 305,
-    "image": [""],
+    "image": ["https://i.ytimg.com/vi/Mn0BXnKkdI0/maxresdefault.jpg"],
     "inenglish": "Bhel Puri",
     "category": "snacks",
     "time": "",
     "directions": "\n1. ಗಟ್ಟಿ ಮುಚ್ಳಳದ ಒಂದು ಸ್ಟೀಲ್ ಲಂಚ್ ಬಾಕ್ಸ್ ತೆಗೆದುಕೊಳ್ಳಿ.\n\n2. ಮುಚ್ಚಳ ತೆರೆದು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ಈರುಳ್ಳಿ ಹಾಕಿ.\n\n3. ಈಗ ಟೋಮೇಟೋ ಮತ್ತು ಕತ್ತರಿಸಿದ ಸೊಪ್ಪನ್ನು ಅದಕ್ಕೆ ಹಾಕಿ.\n\n4. ಸೇವ್ ಹಾಗೂ ಹುರಿಯಕ್ಕಿಯನ್ನು ಸೇರಿಸಿ.\n\n5. ಚಾಟ್ ಮಸಾಲಾ ಮತ್ತು ಉಪ್ಪಿನ ಒಗ್ಗರಣೆಯನ್ನು ಈ ಮಿಶ್ರಣಕ್ಕೆ ನೀಡಿ.\n\n6. ಬಾಕ್ಸ್‌ಗೆ ಒಂದು ಸ್ಪೂನ್‌ನಷ್ಟು ಟೊಮೇಟೋ ಕೆಚಪ್ ಅನ್ನು ಹಾಕಿ.\n\n7. ನಿಮಗೆ ಬೇಕೆಂದಲ್ಲಿ ಕತ್ತರಿಸಿದ ಹಸಿಮೆಣಸನ್ನು ಇದಕ್ಕೆ ಹಾಕಬಹುದು.\n\n8.ಲಂಚ್ ಬಾಕ್ಸ್‌ನ ಮುಚ್ಚಳವನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಾಕಿ ಮತ್ತು ಚೆನ್ನಾಗಿ ಕುಲುಕಿಸಿ.\n\n9.ಮುಚ್ಚಳ ಗಟ್ಟಿಯಾಗಿದ್ದ ಪಕ್ಷಷದಲ್ಲಿ ಇನ್ನು ಚೆನ್ನಾಗಿ ಅದನ್ನು ಕುಲುಕಿಸಿ.\n\n10.ನಂತರ ಮುಚ್ಳವನ್ನು ತೆರೆದು ಸಿದ್ಧವಾಗಿರುವ ಬೇಲ್ ರೆಸಿಪಿಯನ್ನು ಅನಂದಿಸಿ.\n\n11.ಸಣ್ಣ ಪಾತ್ರೆಗಳಲ್ಲಿ ಅದನ್ನು ಸರ್ವ್ ಮಾಡಿ ಅಥವಾ ನಿಮ್ಮ ಮಕ್ಕಳಿಗೆ ಪಿಕ್ ನಿಕ್ ಸ್ನ್ಯಾಕ್ ಆಗಿ ಕಟ್ಟಿಕೊಡಿ.",
-    "name": "ಬೇಲ್ ಪುರಿ ರೆಸಿಪಿ",
+    "name": "ಬೇಲ್ ಪುರಿ",
     "ingredients": "\n\n*ಹುರಿಯಕ್ಕಿ - 1 ಬೌಲ್\n\n*ಸೇವ್ - 1 ಬೌಲ್ (ಕಡಲೆ ಇಲ್ಲದ)\n\n*ಈರುಳ್ಳಿ - 1 (ಕತ್ತರಿಸಿದ್ದು)\n\n*ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು - 2 ದಂಟು (ಕತ್ತರಿಸಿದ್ದು)\n\n*ಚಿಲ್ಲಿ ಟೊಮೇಟೋ ಸಾಸ್ - 1 ಸ್ಪೂನ್\n\n*ಚಾಟ್ ಮಸಾಲಾ - 1 ಸ್ಫೂನ್\n\n*ಟೊಮೇಟೋ - 1/2 (ಕತ್ತರಿಸಿದ್ದು)\n\n*ಉಪ್ಪು - ರುಚಿಗೆ ತಕ್ಕಷ್ಟು"
   },
   {
     "id": 306,
-    "image": [""],
+    "image": ["http://vegrecipesofkarnataka.com/assets/img/goli-baje-mangalore-bajji/golibaje-mangalore-bajji-recipe.jpg"],
     "inenglish": "Mangalooru Bhajji",
     "category": "snacks",
     "time": "",
@@ -1284,7 +1274,7 @@
   },
   {
     "id": 307,
-    "image": [""],
+    "image": ["http://www.lingayathrecipes.com/wp-content/uploads/2016/03/Chanaga-Pappu-Vada.jpg"],
     "inenglish": "Masala Garelu",
     "category": "snacks",
     "time": "",
@@ -1294,7 +1284,7 @@
   },
   {
     "id": 308,
-    "image": [""],
+    "image": ["http://www.manjulaskitchen.com/blog/wp-content/uploads/aloo_puri.jpg"],
     "inenglish": "Aloo Puri",
     "category": "snacks",
     "time": "",
