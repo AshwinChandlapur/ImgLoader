@@ -3,7 +3,7 @@
 [
   {
     "id": 1,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/6-march/Nutty_Aloo_Stuffed_Palak_Paratha_Recipe-1.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/6-march/Nutty_Aloo_Stuffed_Palak_Paratha_Recipe-1.jpg"],
     "inenglish": "Aloo Paratha",
     "category": "breakfast",
     "time": "15 Minutes",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/https://i0.wp.com/www.itslife.in/wp-content/uploads/2014/06/Vegetable-Dosa.jpg?resize=350%2C200"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/https://i0.wp.com/www.itslife.in/wp-content/uploads/2014/06/Vegetable-Dosa.jpg?resize=350%2C200"],
     "inenglish": "Avarekaalu Dose",
     "category": "breakfast",
     "time": "15 Minutes",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://mallikascookery.com/wp-content/uploads/2014/07/coconut-dosa.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/http://mallikascookery.com/wp-content/uploads/2014/07/coconut-dosa.jpg"],
     "inenglish": "PhataPhat Dose",
     "category": "breakfast",
     "time": "10 Minutes",
@@ -33,7 +33,7 @@
   },
   {
     "id": 4,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://www.archanaskitchen.com//images/archanaskitchen/1-Author/Megha_Joshi/How_to_make_Beetroot_Loni_Sponge_Dosa_with_Potato_PalyaBhaji_and_Coconut_Chutney.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/http://www.archanaskitchen.com//images/archanaskitchen/1-Author/Megha_Joshi/How_to_make_Beetroot_Loni_Sponge_Dosa_with_Potato_PalyaBhaji_and_Coconut_Chutney.jpg"],
     "inenglish": "Beetroot Dose",
     "category": "breakfast",
     "time": "15 Minutes",
@@ -43,7 +43,7 @@
   },
   {
     "id": 5,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/https://i.ytimg.com/vi/P00h8B34Gbk/hqdefault.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/https://i.ytimg.com/vi/P00h8B34Gbk/hqdefault.jpg"],
     "inenglish": "Bhel Puri Sandwich",
     "category": "breakfast",
     "time": "12 Minutes",
@@ -53,7 +53,7 @@
   },
   {
     "id": 6,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://www.indobase.com/recipes/rec-images/set-dosa.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/compress/http://www.indobase.com/recipes/rec-images/set-dosa.jpg"],
     "inenglish": "Set Dose",
     "category": "breakfast",
     "time": "20 Minutes",
@@ -63,7 +63,7 @@
   },
   {
     "id": 7,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Masala-Oats.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/http://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Masala-Oats.jpg"],
     "inenglish": "Masala Oats",
     "category": "breakfast",
     "time": "10 Minutes",
@@ -73,7 +73,7 @@
   },
   {
     "id": 8,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://www.ndtv.com/cooks/images/oats%20idli.jpg"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/http://www.ndtv.com/cooks/images/oats%20idli.jpg"],
     "inenglish": "Oats Idli",
     "category": "breakfast",
     "time": "20 Minutes",
@@ -83,7 +83,7 @@
   },
   {
     "id": 9,
-    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/compress/http://www.dishcovery.in/sites/default/files/styles/recipe-detail-cover/public/recipes/Khara-Avalakki_Cover%20photo.jpg?itok=lQWep-11"],
+    "image": ["https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=w:275/quality=value:50/compress/http://www.dishcovery.in/sites/default/files/styles/recipe-detail-cover/public/recipes/Khara-Avalakki_Cover%20photo.jpg?itok=lQWep-11"],
     "inenglish": "Avalakki",
     "category": "breakfast",
     "time": "10 Minutes",
