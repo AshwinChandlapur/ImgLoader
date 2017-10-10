@@ -1,64 +1,75 @@
-{  
-   "android":[  
-      {  
-         "img":"https://pbs.twimg.com/media/C-9wNLIWsAAZXdq.jpg",
-         "name":"HPN is Awesome..OKOKOKOKOK",
-         "content":"Dont Worrry....Aal Izzzz Well!!"
-      },
-      {  
-         "img":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/humble-politician-nograj-et00056918-05-05-2017-04-40-29.jpg",
-         "name":"Ok Thats Great We Know",
-         "content":"Insider Content ahead"
-      },
-      {  
-         "img":"https://i.ytimg.com/vi/SVVX5PnhKBA/maxresdefault.jpg",
-         "name":"Eclairs is awesome chocolaote i Bet Bruh",
-         "content":"content level 5 - 7"
-      },
-      {  
-         "img":"http://techslides.com/demos/sample-videos/small.mp4",
-         "name":"Froyo",
-         "content":"content level 8"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Gingerbread",
-         "content":"content level 9 - 10"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Honeycomb",
-         "content":"content level 11 - 13"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Ice Cream Sandwich",
-         "content":"content level 14 - 15"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"JellyBean",
-         "content":"content level 16 - 18"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"KitKat",
-         "content":"content level 19"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Lollipop",
-         "content":"content level 21 - 22"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Marshmallow",
-         "content":"content level 23"
-      },
-      {  
-         "img":"http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-         "name":"Nougat",
-         "content":"content level 24 - 25"
-      }
-   ]
+{
+	"android": [{
+			"img": "https://pbs.twimg.com/media/C-9wNLIWsAAZXdq.jpg",
+			"name": "HPN is Awesome..OKOKOKOKOK",
+			"content": "Dont Worrry....Aal Izzzz Well!!",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/humble-politician-nograj-et00056918-05-05-2017-04-40-29.jpg",
+			"name": "Ok Thats Great We Know",
+			"content": "Insider Content ahead",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://i.ytimg.com/vi/SVVX5PnhKBA/maxresdefault.jpg",
+			"name": "Eclairs is awesome chocolaote i Bet Bruh",
+			"content": "content level 5 - 7",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://i.ytimg.com/vi/SVVX5PnhKBA/maxresdefault.jpg",
+			"name": "Froyo",
+			"content": "content level 8",
+			"videoUrl": "https://www.youtube.com/watch?v=SVVX5PnhKBA"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Gingerbread",
+			"content": "content level 9 - 10",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Honeycomb",
+			"content": "content level 11 - 13",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Ice Cream Sandwich",
+			"content": "content level 14 - 15",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "JellyBean",
+			"content": "content level 16 - 18",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "KitKat",
+			"content": "content level 19",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Lollipop",
+			"content": "content level 21 - 22",
+			"videoUrl": "https://www.youtube.com/watch?v=G9oI0lJE18Q"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Marshmallow",
+			"content": "content level 23",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
+			"name": "Nougat",
+			"content": "content level 24 - 25",
+			"videoUrl": "n/a"
+		}
+	]
 }
