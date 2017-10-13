@@ -1,68 +1,32 @@
 {
 	"android": [{
-			"img": "https://pbs.twimg.com/media/C-9wNLIWsAAZXdq.jpg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://i.ytimg.com/vi/G9oI0lJE18Q/maxresdefault.jpg",
+			"name": "HPN Exclusive Trailer",
+			"content": "Make some Noise for the Biggest Blockbuster of the year. Humble Politicann Nograj. The Cinema revolves around the subject of Indian Politics and gives a strong message. Saad and Danish have teamed up to tickle your funny Bone. So Ladiyus and GentluMennu, Get Ready! Catch all the Action.",
+			"videoUrl": "https://www.youtube.com/watch?v=SVVX5PnhKBA&t=58s"
+		},
+		{
+			"img": "http://img.youtube.com/vi/ciw6J_lMC3w/mqdefault.jpg",
+			"name": "HPN - Danish Interview  ",
+			"content": "Checkout what Danish Sait, the Humbalest Politicann feels about the making of the movie. Also, he spills out few beans about the storyLine.",
+			"videoUrl": "https://www.youtube.com/watch?v=ciw6J_lMC3w"
+		},
+		{
+			"img": "https://photos.filmibeat.com/ph-big/2017/05/_14942410776.jpg",
+			"name": "TOI Interview - Herd of BORAT.",
+			"content": "The makers say that it depicts the crooked journey of manipulative politician Nograj, who is already infamous thanks to social-media platforms. 'Nograj will deal with current political scenarios in authentic locations and there is nothing funnier than seeing a caricatured politician create a wacky world and pull citizens into it,' says Hemanth, adding that this film will be different and will give viewers a Borat-like experience.",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/humble-politician-nograj-et00056918-05-05-2017-04-40-29.jpg",
-			"name": "Ok Thats Great We Know",
-			"content": "Insider Content ahead",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "https://i.ytimg.com/vi/SVVX5PnhKBA/maxresdefault.jpg",
-			"name": "Eclairs is awesome chocolaote i Bet Bruh",
-			"content": "content level 5 - 7",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "https://i.ytimg.com/vi/SVVX5PnhKBA/maxresdefault.jpg",
-			"name": "Froyo",
-			"content": "content level 8",
-			"videoUrl": "https://www.youtube.com/watch?v=SVVX5PnhKBA"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Gingerbread",
-			"content": "content level 9 - 10",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Honeycomb",
-			"content": "content level 11 - 13",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Ice Cream Sandwich",
-			"content": "content level 14 - 15",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "JellyBean",
-			"content": "content level 16 - 18",
+			"img": "https://pbs.twimg.com/profile_images/911778823552692225/7rEMDaIf_400x400.jpg",
+			"name": "Danish is in Tears.",
+			"content": "After the release of HPN Trailer, Danish Tweeted @DanishSait - The first look teaser of #HPN 🙏🏻 From prank calls on the radio to this ... YOU are the reason 😊 Much love!",
 			"videoUrl": "n/a"
 		},
 		{
 			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
 			"name": "KitKat",
 			"content": "content level 19",
-			"videoUrl": "n/a"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Lollipop",
-			"content": "content level 21 - 22",
-			"videoUrl": "https://www.youtube.com/watch?v=G9oI0lJE18Q"
-		},
-		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Marshmallow",
-			"content": "content level 23",
 			"videoUrl": "n/a"
 		},
 		{
