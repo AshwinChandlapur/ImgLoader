@@ -1,11 +1,9 @@
 {
-    "list": [
+    "android": [
         
         
         {
-            "image":[
-               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg"
-            ],
+            "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg",
             "id":2,
             "name":"Cheese Paratha",
             "time":"30 Minutes",
@@ -29,13 +27,11 @@
 \n• Place the paratha on the skillet. When the paratha start to change color, and begins to puff up, flip it over. You will notice some golden-brown spots.\n
 \n• After a few seconds, flip the paratha and press with a spatula making sure the paratha is golden-brown on both sides. Repeat for the remaining parathas.\n
 \n• Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated for about a week. Re-heat using a skillet or oven.",
-            "videoUrl":"https://www.youtube.com/watch?v=ASCmfLDhopY",
+            "videoUrl":"ASCmfLDhopY",
             "category":"breakfast"
         },
         {
-            "image":[
-               "https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/mooli_ka_paratha-300x168-min.jpg"
-            ],
+            "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/mooli_ka_paratha-300x168-min.jpg",
             "id":3,
             "name":"Mooli Ka Paratha",
             "time":"30 Minutes",
@@ -75,7 +71,7 @@
 \n• Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated four to five days or frozen for up to a month.  Re-heat using a skillet or oven.\n
 \n• Mooli paratha goes well with yogurt or potato with yogurt gravy.\n
 Enjoy!",
-            "videoUrl":"https://www.youtube.com/watch?v=RQORDdkW3Qk",
+            "videoUrl":"RQORDdkW3Qk",
             "category":"breakfast"
         }
         
