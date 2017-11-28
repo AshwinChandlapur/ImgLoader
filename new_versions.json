@@ -4,7 +4,6 @@
         
         {
             "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg",
-            "id":2,
             "name":"Cheese Paratha",
             "time":"30 Minutes",
             "ingredients":"\nFor Dough:\n
@@ -32,7 +31,6 @@
         },
         {
             "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/mooli_ka_paratha-300x168-min.jpg",
-            "id":3,
             "name":"Mooli Ka Paratha",
             "time":"30 Minutes",
             "ingredients":"\nFor Dough:\n
