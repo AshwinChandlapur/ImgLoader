@@ -1,57 +1,77 @@
 {
     "android": [
         {
-            "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg",
-            "name":"Spicy Weekly Specials",
+            "image":"http://2.bp.blogspot.com/-XcHX0s2FC0E/U9mqNATImfI/AAAAAAAAF2U/wUvyLROY_6U/s1600/pici3.jpg",
+            "name":"Gobi Manchuri",
             "time":"30 Minutes",
-            "ingredients":"\nFor Dough:\n
-\n• 1 cup whole wheat flour (chapatti atta)
-\n• 1/2 teaspoon salt
-\n• 1/2 cup water\n
-\nFor Filling\n
-\n• 2 cup grated mix cheese 
-\n• 1/4 cup jalapeno (finely chopped, adjust to your taste)", 
-            "directions":"\nMaking the Dough\n
-\n• Mix flour, and salt, in a bowl add the water as needed to make soft dough. Knead the dough for about one minutes on a lightly greased surface to make soft, and pliable dough. Set aside for at least ten minutes.
-\nMaking the Filling\n
-\n• Cheese and Jalapeno pepper mix it well and divide in 6 equal parts and roll them. Set aside.\n
-\nMaking the Parathas:\n
-\n• Divide the dough into six equal parts and form into balls\n
-\n• Roll dough ball into a 3 circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.\n
-\n• Meanwhile heat the heavy skillet on medium heat until moderately hot. To test, sprinkle water on the skillet. If the water sizzles right away, the skillet is ready.\n
-\n• Press the filled ball lightly on dry whole wheat flour from both sides.\n
-\n• Using a rolling pin, roll the balls lightly to make six-inch circles, keeping the sealed side of the balls on top. If the dough sticks to the rolling pin or rolling surface, lightly dust the parathas with dry flour.\n
-\n• Place the paratha on the skillet. When the paratha start to change color, and begins to puff up, flip it over. You will notice some golden-brown spots.\n
-\n• After a few seconds, flip the paratha and press with a spatula making sure the paratha is golden-brown on both sides. Repeat for the remaining parathas.\n
-\n• Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated for about a week. Re-heat using a skillet or oven.",
-            "videoUrl":"ASCmfLDhopY"
+            "ingredients":"200 to 250 grams of gobi / cauliflower florets (cleaned)
+\n•⅓ cup or 5 to 6 tbsp plain flour / maida (prefer organic or at least unbleached)
+\n•3 tbsp of corn flour / corn starch
+\n•½ to 1 tsp red chilli powder or paste (less spicy variety)
+\n•¼ tsp coarse pepper
+\n•salt as needed
+\n•Oil for deep frying as needed
+\n•For Manchurian sauce
+\n•1 tbsp. garlic finely chopped
+\n•½ tbsp. ginger finely chopped
+\n•1 green chili chopped finely (less spicy variety)
+\n•¼ cup bell pepper / capsicum chopped finely
+\n•⅓ cup finely chopped onions or spring onions
+\n•1 tbsp Soya sauce
+\n•2 tbsp. Red Chilli sauce
+\n•1 tbsp red chili paste made using ½ tbsp chilli powder (less spicy variety)
+\n•½ tbsp vinegar
+\n•¾ tsp sugar
+\n•salt as needed
+\n•3 tbsp of water
+\n•½ to 1 tsp pepper coarsely crushed
+\n•salt as needed
+\n•Handful of spring onion greens chopped for garnish", 
+            "directions":"Clean gobi and cut the florets to medium size. Add them to hot water and rest for 5 minutes.
+\n•Drain completely and spread on a clean cloth until no moisture remains on the gobi.
+\n•Heat up the oil for deep frying on a medium heat. Meanwhile make the batter by adding corn flour, plain flour, red chilli powder, pepper and salt to a mixing bowl.
+\n•Mix and add water little by little as needed and make a free flowing lump free batter. The consistency has to be medium and not too thick or very runny. Adjust salt as needed by tasting the batter.
+\n•Add the gobi florets to the batter in batches, coat them well.
+\n•When the oil turns hot enough, drop the florets one by one in the oil. The flame has to be medium initially and should be increased slightly as more gobi is added.
+\n•Reduce the flame to medium and fry until the florets turn golden and crisp. Keep stirring in between for even frying.
+\n•Drain them to a kitchen tissue.
+\n•Heat oil in a wide pan and add garlic, ginger and chillies.
+\n•Saute for a minute or two. Then add spring onions & capsicum. Saute them on a high flame for 2 mins.
+\n•Add soya sauce, red chili sauce, red chilli paste, sugar and vinegar.
+\n•Mix and add water. Mix and cook stirring and add pepper.
+\n•Cook on a medium heat until the sauce thickens.
+\n•Turn off the stove and check the taste. The sauce has to be slightly sour, sweet & hot. If needed you can adjust the salt as well.
+\n•Allow the sauce to cool for 1 to 2 mins.
+\n•Add the fried cauliflower and stir.",
+        "videoUrl":"U0j03IcbAII"
         },
         
         {
-            "image":"https://raw.githubusercontent.com/AshwinChandlapur/ImgLoader/gh-pages/jalapeno_cheese_paratha-300x169-min.jpg",
-            "name":"Cheesekasjksjdhak Paratha",
+            "image":"https://fthmb.tqn.com/xAHnd8y295UEu41b97WseFyo-N4=/960x0/filters:no_upscale()/Chicken-tikka-GettyImages-123516109-588acbfc3df78caebc9cd3d8.jpg",
+            "name":"Tikka",
             "time":"30 Minutes",
-            "ingredients":"\nFor Dough:\n
-\n• 1 cup whole wheat flour (chapatti atta)
-\n• 1/2 teaspoon salt
-\n• 1/2 cup water\n
-\nFor Filling\n
-\n• 2 cup grated mix cheese 
-\n• 1/4 cup jalapeno (finely chopped, adjust to your taste)", 
-            "directions":"\nMaking the Dough\n
-\n• Mix flour, and salt, in a bowl add the water as needed to make soft dough. Knead the dough for about one minutes on a lightly greased surface to make soft, and pliable dough. Set aside for at least ten minutes.
-\nMaking the Filling\n
-\n• Cheese and Jalapeno pepper mix it well and divide in 6 equal parts and roll them. Set aside.\n
-\nMaking the Parathas:\n
-\n• Divide the dough into six equal parts and form into balls\n
-\n• Roll dough ball into a 3 circle. Place a cheese ball in the center. Pull the edges of the dough to wrap it around the cheese filling. Repeat to make all six balls. Let the filled balls settle three to four minutes. Note, this help rolling the paratha.\n
-\n• Meanwhile heat the heavy skillet on medium heat until moderately hot. To test, sprinkle water on the skillet. If the water sizzles right away, the skillet is ready.\n
-\n• Press the filled ball lightly on dry whole wheat flour from both sides.\n
-\n• Using a rolling pin, roll the balls lightly to make six-inch circles, keeping the sealed side of the balls on top. If the dough sticks to the rolling pin or rolling surface, lightly dust the parathas with dry flour.\n
-\n• Place the paratha on the skillet. When the paratha start to change color, and begins to puff up, flip it over. You will notice some golden-brown spots.\n
-\n• After a few seconds, flip the paratha and press with a spatula making sure the paratha is golden-brown on both sides. Repeat for the remaining parathas.\n
-\n• Parathas can be kept unrefrigerated for up to two days wrapped in aluminum foil or in a covered container. For later use, parathas can be refrigerated for about a week. Re-heat using a skillet or oven.",
-            "videoUrl":"ASCmfLDhopY"
+            "ingredients":"1 cup finely chopped fresh coriander (cilantro) leaves
+\n•2 tbsp. ginger paste
+\n•3 tbsp. garlic paste
+\n•3 to 4 tbsp. garam masala
+\n•6 peppercorns or 2 dry red chilies
+\n•1/2 tsp. orange food coloring
+\n•1 cup fresh unsweetened yogurt (should not be sour)
+\n•2 1/4 lbs. (1 kg.) skinless and boneless chicken breast or thigh, cut into 2-inch chunks
+\n•1 large onion, cut into very thin rings
+\n•3 tbsp. freshly squeezed lime or lemon juice
+\n•Lime or lemon wedges for garnish
+\n•1 tsp. chaat masala (available at most Indian groceries)", 
+            "directions":"
+\n•Grind the chopped coriander (keep some aside for garnishing) and all other marinade ingredients (except yogurt) into a smooth paste in a food processor.
+\n•Pour the spice mix into a large bowl and add yogurt. Mix well. Add the chicken pieces and mix well. Cover the bowl and refrigerate. Allow to marinate overnight.
+\n•Thread the chicken onto skewers and keep ready.
+\n•Preheat your oven or grill to medium-high 
+\n•Place the skewers on the grill or in your oven with a tray underneath to catch drippings. Roast open until the chicken is browned on all sides and tender, about 12 to 15 minutes.
+\n•Remove from skewers and put the chicken on a plate.
+\n•Put the onion rings in a separate bowl and squeeze lime juice over them. Sprinkle the chaat masala over and mix well so the onions are fully coated.
+\n•Garnish the Chicken Tikka with these onion rings and serve with naan.",
+        "videoUrl":"ZF27oDmQ7xo"
         }
         
         
